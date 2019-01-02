@@ -1,0 +1,89 @@
+# Filename: de-Berlin
+# Date: 02.01.2019
+# Menu Pre-defined muxes: "Germany: de-Berlin"
+# Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
+# Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
+# ---
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: ARD
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: ARD
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Scholzplatz), Polarisation: V, Programmgruppe: ARD
+CH[25]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 506000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: freenet TV1
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: freenet TV1
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Scholzplatz), Polarisation: V, Programmgruppe: ZDF
+CH[27]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 522000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Scholzplatz), Polarisation: V, Programmgruppe: freenet TV1
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: freenet TV2
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: freenet TV2
+CH[31]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 554000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: ZDF
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: ZDF
+CH[33]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 570000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: ARD regional
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: ARD regional
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Scholzplatz), Polarisation: V, Programmgruppe: ARD regional
+CH[40]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 626000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Scholzplatz), Polarisation: V, Programmgruppe: freenet TV2
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Alexanderplatz), Polarisation: H, Programmgruppe: freenet TV3
+# Bundesland: BE, Rundfunkanstalt: rbb, Senderstandort: Berlin (Schäferberg), Polarisation: H, Programmgruppe: freenet TV3
+CH[42]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 642000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
