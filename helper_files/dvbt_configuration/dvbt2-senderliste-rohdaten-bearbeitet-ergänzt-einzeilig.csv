@@ -1,0 +1,840 @@
+ST,MDR,Brocken,V,ARD,34
+ST,MDR,Brocken,V,ARD regional,45
+ST,MDR,Brocken,V,ZDF,37
+ST,MDR,Brocken,V,freenet TV1
+ST,MDR,Brocken,V,freenet TV2
+ST,MDR,Brocken,V,freenet TV3
+BB,rbb,Booßen,V,ARD,25
+BB,rbb,Booßen,V,ARD regional,40
+BB,rbb,Booßen,V,ZDF,33
+BB,rbb,Booßen,V,freenet TV1
+BB,rbb,Booßen,V,freenet TV2
+BB,rbb,Booßen,V,freenet TV3
+BE,rbb,Berlin (Alexanderplatz),H,ARD,25
+BE,rbb,Berlin (Alexanderplatz),H,ARD regional,40
+BE,rbb,Berlin (Alexanderplatz),H,ZDF,33
+BE,rbb,Berlin (Alexanderplatz),H,freenet TV1,27
+BE,rbb,Berlin (Alexanderplatz),H,freenet TV2,31
+BE,rbb,Berlin (Alexanderplatz),H,freenet TV3,42
+BE,rbb,Berlin (Schäferberg),H,ARD,25
+BE,rbb,Berlin (Schäferberg),H,ARD regional,40
+BE,rbb,Berlin (Schäferberg),H,ZDF,33
+BE,rbb,Berlin (Schäferberg),H,freenet TV1,27
+BE,rbb,Berlin (Schäferberg),H,freenet TV2,31
+BE,rbb,Berlin (Schäferberg),H,freenet TV3,42
+BE,rbb,Berlin (Scholzplatz),V,ARD,25
+BE,rbb,Berlin (Scholzplatz),V,ARD regional,40
+BE,rbb,Berlin (Scholzplatz),V,ZDF,27
+BE,rbb,Berlin (Scholzplatz),V,freenet TV1,31
+BE,rbb,Berlin (Scholzplatz),V,freenet TV2,42
+BE,rbb,Berlin (Scholzplatz),V,freenet TV3
+BW,SWR,Baden-Baden,H,ARD,36
+BW,SWR,Baden-Baden,H,ARD regional,39
+BW,SWR,Baden-Baden,H,ZDF,33
+BW,SWR,Baden-Baden,H,freenet TV1,35
+BW,SWR,Baden-Baden,H,freenet TV2,44
+BW,SWR,Baden-Baden,H,freenet TV3,29
+BW,SWR,Heidelberg,H,ARD,27
+BW,SWR,Heidelberg,H,ARD regional,21
+BW,SWR,Heidelberg,H,ZDF,41
+BW,SWR,Heidelberg,H,freenet TV1,35
+BW,SWR,Heidelberg,H,freenet TV2,44
+BW,SWR,Heidelberg,H,freenet TV3,24
+BW,SWR,Karlsruhe (Grünwettersbach),V,ARD,27
+BW,SWR,Karlsruhe (Grünwettersbach),V,ARD regional,21
+BW,SWR,Karlsruhe (Grünwettersbach),V,ZDF,41
+BW,SWR,Karlsruhe (Grünwettersbach),V,freenet TV1,35
+BW,SWR,Karlsruhe (Grünwettersbach),V,freenet TV2,44
+BW,SWR,Karlsruhe (Grünwettersbach),V,freenet TV3,24
+BW,SWR,Mannheim,H,ARD,27
+BW,SWR,Mannheim,H,ARD regional,21
+BW,SWR,Mannheim,H,ZDF,41
+BW,SWR,Mannheim,H,freenet TV1,35
+BW,SWR,Mannheim,H,freenet TV2,44
+BW,SWR,Mannheim,H,freenet TV3,24
+BW,SWR,Pforzheim,H,ARD,27
+BW,SWR,Pforzheim,H,ARD regional,21
+BW,SWR,Pforzheim,H,ZDF,33
+BW,SWR,Pforzheim,H,freenet TV1,35
+BW,SWR,Pforzheim,H,freenet TV2,44
+BW,SWR,Pforzheim,H,freenet TV3,24
+BW,SWR,Reutlingen (Scheibengipfel),V,ARD,32
+BW,SWR,Reutlingen (Scheibengipfel),V,ARD regional,28
+BW,SWR,Reutlingen (Scheibengipfel),V,ZDF,23
+BW,SWR,Reutlingen (Scheibengipfel),V,freenet TV1,26
+BW,SWR,Reutlingen (Scheibengipfel),V,freenet TV2,25
+BW,SWR,Reutlingen (Scheibengipfel),V,freenet TV3,45
+BW,SWR,Stuttgart (Frauenkopf),H,ARD,32
+BW,SWR,Stuttgart (Frauenkopf),H,ARD regional,28
+BW,SWR,Stuttgart (Frauenkopf),H,ZDF,23
+BW,SWR,Stuttgart (Frauenkopf),H,freenet TV1,26
+BW,SWR,Stuttgart (Frauenkopf),H,freenet TV2,25
+BW,SWR,Stuttgart (Frauenkopf),H,freenet TV3,45
+BY,BR,Buettelberg,H,ARD,55
+BY,BR,Buettelberg,H,ARD regional,47
+BY,BR,Buettelberg,H,ZDF
+BY,BR,Buettelberg,H,freenet TV1
+BY,BR,Buettelberg,H,freenet TV2
+BY,BR,Buettelberg,H,freenet TV3
+BY,BR,Dillberg,V,ARD,55
+BY,BR,Dillberg,V,ARD regional,47
+BY,BR,Dillberg,V,ZDF,34
+BY,BR,Dillberg,V,freenet TV1
+BY,BR,Dillberg,V,freenet TV2
+BY,BR,Dillberg,V,freenet TV3
+BY,BR,München,V,ARD,31
+BY,BR,München,V,ARD regional,30
+BY,BR,München,V,ZDF,34
+BY,BR,München,V,freenet TV1,35
+BY,BR,München,V,freenet TV2,26
+BY,BR,München,V,freenet TV3,48
+BY,BR,Nürnberg,V,ARD,55
+BY,BR,Nürnberg,V,ARD regional,47
+BY,BR,Nürnberg,V,ZDF,34
+BY,BR,Nürnberg,V,freenet TV1,49
+BY,BR,Nürnberg,V,freenet TV2,24
+BY,BR,Nürnberg,V,freenet TV3,54
+BY,BR,Wendelstein,V,ARD,31
+BY,BR,Wendelstein,V,ARD regional,30
+BY,BR,Wendelstein,V,ZDF,34
+BY,BR,Wendelstein,V,freenet TV1,35
+BY,BR,Wendelstein,V,freenet TV2,26
+BY,BR,Wendelstein,V,freenet TV3,48
+HB,RB,Bremen,H,ARD,29
+HB,RB,Bremen,H,ARD regional,55
+HB,RB,Bremen,H,ZDF,35
+HB,RB,Bremen,H,freenet TV1,42
+HB,RB,Bremen,H,freenet TV2,48
+HB,RB,Bremen,H,freenet TV3,22
+HE,HR,Darmstadt (hr-Standort),V,ARD,42
+HE,HR,Darmstadt (hr-Standort),V,ARD regional,34
+HE,HR,Darmstadt (hr-Standort),V,ZDF,22
+HE,HR,Darmstadt (hr-Standort),V,freenet TV1,31
+HE,HR,Darmstadt (hr-Standort),V,freenet TV2,25
+HE,HR,Darmstadt (hr-Standort),V,freenet TV3,47
+HE,HR,Frankfurt,V,ARD,42
+HE,HR,Frankfurt,V,ARD regional,34
+HE,HR,Frankfurt,V,ZDF,22
+HE,HR,Frankfurt,V,freenet TV1,31
+HE,HR,Frankfurt,V,freenet TV2,25
+HE,HR,Frankfurt,V,freenet TV3,47
+HE,HR,Großer Feldberg,V,ARD,42
+HE,HR,Großer Feldberg,V,ARD regional,34
+HE,HR,Großer Feldberg,V,ZDF,22
+HE,HR,Großer Feldberg,V,freenet TV1,31
+HE,HR,Großer Feldberg,V,freenet TV2,25
+HE,HR,Großer Feldberg,V,freenet TV3,47
+HE,HR,Hohe-Wurzel,V,ARD,42
+HE,HR,Hohe-Wurzel,V,ARD regional,34
+HE,HR,Hohe-Wurzel,V,ZDF,22
+HE,HR,Hohe-Wurzel,V,freenet TV1,31
+HE,HR,Hohe-Wurzel,V,freenet TV2,25
+HE,HR,Hohe-Wurzel,V,freenet TV3,47
+HE,HR,Rimberg,H,ARD,42
+HE,HR,Rimberg,H,ARD regional,29
+HE,HR,Rimberg,H,ZDF,22
+HE,HR,Rimberg,H,freenet TV1
+HE,HR,Rimberg,H,freenet TV2
+HE,HR,Rimberg,H,freenet TV3
+HE,HR,Würzberg,H,ARD,48
+HE,HR,Würzberg,H,ARD regional,34
+HE,HR,Würzberg,H,ZDF,41
+HE,HR,Würzberg,H,freenet TV1
+HE,HR,Würzberg,H,freenet TV2
+HE,HR,Würzberg,H,freenet TV3
+HH,NDR,Hamburg,H,ARD,23
+HH,NDR,Hamburg,H,ARD regional,40
+HH,NDR,Hamburg,H,ZDF,33
+HH,NDR,Hamburg,H,freenet TV1,30
+HH,NDR,Hamburg,H,freenet TV2,28
+HH,NDR,Hamburg,H,freenet TV3,45
+HH,NDR,Hamburg (Höltigbaum),H,ARD,23
+HH,NDR,Hamburg (Höltigbaum),H,ARD regional,40
+HH,NDR,Hamburg (Höltigbaum),H,ZDF,33
+HH,NDR,Hamburg (Höltigbaum),H,freenet TV1,30
+HH,NDR,Hamburg (Höltigbaum),H,freenet TV2,28
+HH,NDR,Hamburg (Höltigbaum),H,freenet TV3,45
+HH,NDR,Hamburg (Moorfleet),H/V,ARD,23
+HH,NDR,Hamburg (Moorfleet),H/V,ARD regional,40
+HH,NDR,Hamburg (Moorfleet),H/V,ZDF
+HH,NDR,Hamburg (Moorfleet),H/V,freenet TV1
+HH,NDR,Hamburg (Moorfleet),H/V,freenet TV2
+HH,NDR,Hamburg (Moorfleet),H/V,freenet TV3
+MV,NDR,Rostock (Toitenwinkel),V,ARD,36
+MV,NDR,Rostock (Toitenwinkel),V,ARD regional,29
+MV,NDR,Rostock (Toitenwinkel),V,ZDF,46
+MV,NDR,Rostock (Toitenwinkel),V,freenet TV1,44
+MV,NDR,Rostock (Toitenwinkel),V,freenet TV2,24
+MV,NDR,Rostock (Toitenwinkel),V,freenet TV3,26
+MV,NDR,Schwerin,H,ARD,36
+MV,NDR,Schwerin,H,ARD regional,29
+MV,NDR,Schwerin,H,ZDF,46
+MV,NDR,Schwerin,H,freenet TV1,44
+MV,NDR,Schwerin,H,freenet TV2,24
+MV,NDR,Schwerin,H,freenet TV3,26
+NI,NDR,Aurich,H,ARD,29
+NI,NDR,Aurich,H,ARD regional,43
+NI,NDR,Aurich,H,ZDF,35
+NI,NDR,Aurich,H,freenet TV1
+NI,NDR,Aurich,H,freenet TV2
+NI,NDR,Aurich,H,freenet TV3
+NI,NDR,Bad Pyrmont,H,ARD,22
+NI,NDR,Bad Pyrmont,H,ARD regional,58
+NI,NDR,Bad Pyrmont,H,ZDF,38
+NI,NDR,Bad Pyrmont,H,freenet TV1
+NI,NDR,Bad Pyrmont,H,freenet TV2
+NI,NDR,Bad Pyrmont,H,freenet TV3
+NI,NDR,Braunschweig,V,ARD,23
+NI,NDR,Braunschweig,V,ARD regional,40
+NI,NDR,Braunschweig,V,ZDF,36
+NI,NDR,Braunschweig,V,freenet TV1,44
+NI,NDR,Braunschweig,V,freenet TV2,21
+NI,NDR,Braunschweig,V,freenet TV3,47
+NI,NDR,Braunschweig (KW),V,ARD,23
+NI,NDR,Braunschweig (KW),V,ARD regional,40
+NI,NDR,Braunschweig (KW),V,ZDF,36
+NI,NDR,Braunschweig (KW),V,freenet TV1,44
+NI,NDR,Braunschweig (KW),V,freenet TV2,21
+NI,NDR,Braunschweig (KW),V,freenet TV3,47
+NI,RB,Bremerhaven (Schiffdorf),H,ARD,29
+NI,RB,Bremerhaven (Schiffdorf),H,ARD regional,55
+NI,RB,Bremerhaven (Schiffdorf),H,ZDF,35
+NI,RB,Bremerhaven (Schiffdorf),H,freenet TV1,42
+NI,RB,Bremerhaven (Schiffdorf),H,freenet TV2,48
+NI,RB,Bremerhaven (Schiffdorf),H,freenet TV3,22
+NI,NDR,Hannover,H,ARD,23
+NI,NDR,Hannover,H,ARD regional,40
+NI,NDR,Hannover,H,ZDF,36
+NI,NDR,Hannover,H,freenet TV1,44
+NI,NDR,Hannover,H,freenet TV2,21
+NI,NDR,Hannover,H,freenet TV3,47
+NI,NDR,Hannover (Hemmingen),H,ARD,23
+NI,NDR,Hannover (Hemmingen),H,ARD regional,40
+NI,NDR,Hannover (Hemmingen),H,ZDF,36
+NI,NDR,Hannover (Hemmingen),H,freenet TV1
+NI,NDR,Hannover (Hemmingen),H,freenet TV2
+NI,NDR,Hannover (Hemmingen),H,freenet TV3
+NI,NDR,Sibbesse,V,ARD,23
+NI,NDR,Sibbesse,V,ARD regional,40
+NI,NDR,Sibbesse,V,ZDF,36
+NI,NDR,Sibbesse,V,freenet TV1
+NI,NDR,Sibbesse,V,freenet TV2
+NI,NDR,Sibbesse,V,freenet TV3
+NI,NDR,Steinkimmen,H,ARD,29
+NI,NDR,Steinkimmen,H,ARD regional,55
+NI,NDR,Steinkimmen,H,ZDF,35
+NI,NDR,Steinkimmen,H,freenet TV1
+NI,NDR,Steinkimmen,H,freenet TV2
+NI,NDR,Steinkimmen,H,freenet TV3
+NI,NDR,Torfhaus,V,ARD,23
+NI,NDR,Torfhaus,V,ARD regional,40
+NI,NDR,Torfhaus,V,ZDF
+NI,NDR,Torfhaus,V,freenet TV1
+NI,NDR,Torfhaus,V,freenet TV2
+NI,NDR,Torfhaus,V,freenet TV3
+NW,WDR,Aachen (Stadt),V,ARD,35
+NW,WDR,Aachen (Stadt),V,ARD regional,26
+NW,WDR,Aachen (Stadt),V,ZDF,29
+NW,WDR,Aachen (Stadt),V,freenet TV1,40
+NW,WDR,Aachen (Stadt),V,freenet TV2,43
+NW,WDR,Aachen (Stadt),V,freenet TV3,36
+NW,WDR,Aachen (Stolberg),V,ARD,35
+NW,WDR,Aachen (Stolberg),V,ARD regional,26
+NW,WDR,Aachen (Stolberg),V,ZDF,29
+NW,WDR,Aachen (Stolberg),V,freenet TV1
+NW,WDR,Aachen (Stolberg),V,freenet TV2
+NW,WDR,Aachen (Stolberg),V,freenet TV3
+NW,WDR,Bonn (Venusberg),V,ARD,35
+NW,WDR,Bonn (Venusberg),V,ARD regional,26
+NW,WDR,Bonn (Venusberg),V,ZDF,29
+NW,WDR,Bonn (Venusberg),V,freenet TV1,40
+NW,WDR,Bonn (Venusberg),V,freenet TV2,43
+NW,WDR,Bonn (Venusberg),V,freenet TV3,36
+NW,WDR,Dortmund,V,ARD,35
+NW,WDR,Dortmund,V,ARD regional,25
+NW,WDR,Dortmund,V,ZDF,29
+NW,WDR,Dortmund,V,freenet TV1,40
+NW,WDR,Dortmund,V,freenet TV2,43
+NW,WDR,Dortmund,V,freenet TV3,48
+NW,WDR,Duesseldorf,V,ARD,35
+NW,WDR,Duesseldorf,V,ARD regional,46
+NW,WDR,Duesseldorf,V,ZDF,29
+NW,WDR,Duesseldorf,V,freenet TV1,40
+NW,WDR,Duesseldorf,V,freenet TV2,43
+NW,WDR,Duesseldorf,V,freenet TV3,48
+NW,WDR,Essen,V,ARD,35
+NW,WDR,Essen,V,ARD regional,25
+NW,WDR,Essen,V,ZDF,29
+NW,WDR,Essen,V,freenet TV1,40
+NW,WDR,Essen,V,freenet TV2,43
+NW,WDR,Essen,V,freenet TV3,48
+NW,WDR,Gelsenkirchen (Scholven),V,ARD,0
+NW,WDR,Gelsenkirchen (Scholven),V,ARD regional,25
+NW,WDR,Gelsenkirchen (Scholven),V,ZDF
+NW,WDR,Gelsenkirchen (Scholven),V,freenet TV1
+NW,WDR,Gelsenkirchen (Scholven),V,freenet TV2
+NW,WDR,Gelsenkirchen (Scholven),V,freenet TV3
+NW,WDR,Gummersbach,V,ARD,35
+NW,WDR,Gummersbach,V,ARD regional,26
+NW,WDR,Gummersbach,V,ZDF,29
+NW,WDR,Gummersbach,V,freenet TV1
+NW,WDR,Gummersbach,V,freenet TV2
+NW,WDR,Gummersbach,V,freenet TV3
+NW,WDR,Hagen,V,ARD,35
+NW,WDR,Hagen,V,ARD regional,25
+NW,WDR,Hagen,V,ZDF,29
+NW,WDR,Hagen,V,freenet TV1,40
+NW,WDR,Hagen,V,freenet TV2,43
+NW,WDR,Hagen,V,freenet TV3,48
+NW,WDR,Hohe-Warte,V,ARD,35
+NW,WDR,Hohe-Warte,V,ARD regional,26
+NW,WDR,Hohe-Warte,V,ZDF,29
+NW,WDR,Hohe-Warte,V,freenet TV1
+NW,WDR,Hohe-Warte,V,freenet TV2
+NW,WDR,Hohe-Warte,V,freenet TV3
+NW,WDR,Kleve,H,ARD,35
+NW,WDR,Kleve,H,ARD regional,46
+NW,WDR,Kleve,H,ZDF
+NW,WDR,Kleve,H,freenet TV1
+NW,WDR,Kleve,H,freenet TV2
+NW,WDR,Kleve,H,freenet TV3
+NW,WDR,Köln (Colonius),V,ARD,35
+NW,WDR,Köln (Colonius),V,ARD regional,26
+NW,WDR,Köln (Colonius),V,ZDF,29
+NW,WDR,Köln (Colonius),V,freenet TV1,40
+NW,WDR,Köln (Colonius),V,freenet TV2,43
+NW,WDR,Köln (Colonius),V,freenet TV3,36
+NW,WDR,Langenberg,V,ARD,0
+NW,WDR,Langenberg,V,ARD regional,46
+NW,WDR,Langenberg,V,ZDF
+NW,WDR,Langenberg,V,freenet TV1
+NW,WDR,Langenberg,V,freenet TV2
+NW,WDR,Langenberg,V,freenet TV3
+NW,WDR,Langenberg,V,ARD,35
+NW,WDR,Langenberg,V,ARD regional,25
+NW,WDR,Langenberg,V,ZDF,29
+NW,WDR,Langenberg,V,freenet TV1,40
+NW,WDR,Langenberg,V,freenet TV2,43
+NW,WDR,Langenberg,V,freenet TV3,48
+NW,WDR,Wesel,V,ARD,35
+NW,WDR,Wesel,V,ARD regional,46
+NW,WDR,Wesel,V,ZDF,29
+NW,WDR,Wesel,V,freenet TV1,40
+NW,WDR,Wesel,V,freenet TV2,43
+NW,WDR,Wesel,V,freenet TV3,48
+NW,WDR,Wuppertal,H,ARD,35
+NW,WDR,Wuppertal,H,ARD regional,46
+NW,WDR,Wuppertal,H,ZDF,29
+NW,WDR,Wuppertal,H,freenet TV1,40
+NW,WDR,Wuppertal,H,freenet TV2,43
+NW,WDR,Wuppertal,H,freenet TV3,48
+SH,NDR,Bungsberg,V,ARD,47
+SH,NDR,Bungsberg,V,ARD regional,39
+SH,NDR,Bungsberg,V,ZDF,21
+SH,NDR,Bungsberg,V,freenet TV1
+SH,NDR,Bungsberg,V,freenet TV2
+SH,NDR,Bungsberg,V,freenet TV3
+SH,NDR,Flensburg,V,ARD,47
+SH,NDR,Flensburg,V,ARD regional,39
+SH,NDR,Flensburg,V,ZDF,21
+SH,NDR,Flensburg,V,freenet TV1
+SH,NDR,Flensburg,V,freenet TV2
+SH,NDR,Flensburg,V,freenet TV3
+SH,NDR,Kiel,H,ARD,47
+SH,NDR,Kiel,H,ARD regional,39
+SH,NDR,Kiel,H,ZDF,21
+SH,NDR,Kiel,H,freenet TV1,52
+SH,NDR,Kiel,H,freenet TV2,28
+SH,NDR,Kiel,H,freenet TV3,45
+SH,NDR,Lübeck (Berkenthin),H,ARD,23
+SH,NDR,Lübeck (Berkenthin),H,ARD regional,40
+SH,NDR,Lübeck (Berkenthin),H,ZDF,33
+SH,NDR,Lübeck (Berkenthin),H,freenet TV1,30
+SH,NDR,Lübeck (Berkenthin),H,freenet TV2,28
+SH,NDR,Lübeck (Berkenthin),H,freenet TV3,45
+SH,NDR,Schleswig,V,ARD,47
+SH,NDR,Schleswig,V,ARD regional,39
+SH,NDR,Schleswig,V,ZDF,21
+SH,NDR,Schleswig,V,freenet TV1
+SH,NDR,Schleswig,V,freenet TV2
+SH,NDR,Schleswig,V,freenet TV3
+SH,NDR,Stockelsdorf (Lübeck),V,ARD,23
+SH,NDR,Stockelsdorf (Lübeck),V,ARD regional,40
+SH,NDR,Stockelsdorf (Lübeck),V,ZDF,33
+SH,NDR,Stockelsdorf (Lübeck),V,freenet TV1,30
+SH,NDR,Stockelsdorf (Lübeck),V,freenet TV2,28
+SH,NDR,Stockelsdorf (Lübeck),V,freenet TV3,45
+SH,NDR,Wedel Wittsmoor,H,ARD,23
+SH,NDR,Wedel Wittsmoor,H,ARD regional,40
+SH,NDR,Wedel Wittsmoor,H,ZDF
+SH,NDR,Wedel Wittsmoor,H,freenet TV1
+SH,NDR,Wedel Wittsmoor,H,freenet TV2
+SH,NDR,Wedel Wittsmoor,H,freenet TV3
+SL,SR,Göttelborner Höhe,V,ARD,32
+SL,SR,Göttelborner Höhe,V,ARD regional,46
+SL,SR,Göttelborner Höhe,V,ZDF
+SL,SR,Göttelborner Höhe,V,freenet TV1
+SL,SR,Göttelborner Höhe,V,freenet TV2
+SL,SR,Göttelborner Höhe,V,freenet TV3
+SL,SR,Saarbrücken (Halberg),V,ARD,32
+SL,SR,Saarbrücken (Halberg),V,ARD regional
+SL,SR,Saarbrücken (Halberg),V,ZDF
+SL,SR,Saarbrücken (Halberg),V,freenet TV1
+SL,SR,Saarbrücken (Halberg),V,freenet TV2
+SL,SR,Saarbrücken (Halberg),V,freenet TV3
+SL,SR,Saarbrücken (Schock.),V,ARD,0
+SL,SR,Saarbrücken (Schock.),V,ARD regional,0
+SL,SR,Saarbrücken (Schock.),V,ZDF,37
+SL,SR,Saarbrücken (Schock.),V,freenet TV1,35
+SL,SR,Saarbrücken (Schock.),V,freenet TV2,44
+SL,SR,Saarbrücken (Schock.),V,freenet TV3,45
+SL,SR,Spiesen,V,ARD,32
+SL,SR,Spiesen,V,ARD regional
+SL,SR,Spiesen,V,ZDF
+SL,SR,Spiesen,V,freenet TV1
+SL,SR,Spiesen,V,freenet TV2
+SL,SR,Spiesen,V,freenet TV3
+SN,MDR,Leipzig,V,ARD,24
+SN,MDR,Leipzig,V,ARD regional,35
+SN,MDR,Leipzig,V,ZDF,22
+SN,MDR,Leipzig,V,freenet TV1,43
+SN,MDR,Leipzig,V,freenet TV2,28
+SN,MDR,Leipzig,V,freenet TV3,26
+ST,MDR,Halle (Stadt),V,ARD,24
+ST,MDR,Halle (Stadt),V,ARD regional,38
+ST,MDR,Halle (Stadt),V,ZDF,22
+ST,MDR,Halle (Stadt),V,freenet TV1,43
+ST,MDR,Halle (Stadt),V,freenet TV2,28
+ST,MDR,Halle (Stadt),V,freenet TV3,26
+ST,MDR,Magdeburg (Stadt),V,ARD,34
+ST,MDR,Magdeburg (Stadt),V,ARD regional,45
+ST,MDR,Magdeburg (Stadt),V,ZDF,37
+ST,MDR,Magdeburg (Stadt),V,freenet TV1,46
+ST,MDR,Magdeburg (Stadt),V,freenet TV2,29
+ST,MDR,Magdeburg (Stadt),V,freenet TV3,48
+ST,MDR,Wittenberg (Gallunberg),V,ARD,24
+ST,MDR,Wittenberg (Gallunberg),V,ARD regional,38
+ST,MDR,Wittenberg (Gallunberg),V,ZDF,37
+ST,MDR,Wittenberg (Gallunberg),V,freenet TV1
+ST,MDR,Wittenberg (Gallunberg),V,freenet TV2
+ST,MDR,Wittenberg (Gallunberg),V,freenet TV3
+TH,MDR,Jena (Kernberge) ,V,ARD,21
+TH,MDR,Jena (Kernberge) ,V,ARD regional,27
+TH,MDR,Jena (Kernberge) ,V,ZDF,41
+TH,MDR,Jena (Kernberge) ,V,freenet TV1,44
+TH,MDR,Jena (Kernberge) ,V,freenet TV2,33
+TH,MDR,Jena (Kernberge) ,V,freenet TV3,47
+BW,SWR,Freiburg,H,ARD,36
+BW,SWR,Freiburg,H,ARD regional,39
+BW,SWR,Freiburg,H,ZDF,33
+BW,SWR,Freiburg,H,freenet TV1,28
+BW,SWR,Freiburg,H,freenet TV2,42
+BW,SWR,Freiburg,H,freenet TV3,29
+BW,SWR,Freiburg (Schönberg),V,ARD,36
+BW,SWR,Freiburg (Schönberg),V,ARD regional,39
+BW,SWR,Freiburg (Schönberg),V,ZDF,33
+BW,SWR,Freiburg (Schönberg),V,freenet TV1,28
+BW,SWR,Freiburg (Schönberg),V,freenet TV2,42
+BW,SWR,Freiburg (Schönberg),V,freenet TV3,29
+BY,BR,Kreuzberg,H,ARD,36
+BY,BR,Kreuzberg,H,ARD regional,43
+BY,BR,Kreuzberg,H,ZDF
+BY,BR,Kreuzberg,H,freenet TV1
+BY,BR,Kreuzberg,H,freenet TV2
+BY,BR,Kreuzberg,H,freenet TV3
+BY,BR,Pfaffenberg,H,ARD,36
+BY,BR,Pfaffenberg,H,ARD regional,43
+BY,BR,Pfaffenberg,H,ZDF,26
+BY,BR,Pfaffenberg,H,freenet TV1
+BY,BR,Pfaffenberg,H,freenet TV2
+BY,BR,Pfaffenberg,H,freenet TV3
+BY,HR,Rhön (Bischhofsheim),H,ARD,0
+BY,HR,Rhön (Bischhofsheim),H,ARD regional,0
+BY,HR,Rhön (Bischhofsheim),H,ZDF,26
+BY,HR,Rhön (Bischhofsheim),H,freenet TV1
+BY,HR,Rhön (Bischhofsheim),H,freenet TV2
+BY,HR,Rhön (Bischhofsheim),H,freenet TV3
+BY,BR,Würzburg (BR-Standort),H,ARD,36
+BY,BR,Würzburg (BR-Standort),H,ARD regional,43
+BY,BR,Würzburg (BR-Standort),H,ZDF
+BY,BR,Würzburg (BR-Standort),H,freenet TV1
+BY,BR,Würzburg (BR-Standort),H,freenet TV2
+BY,BR,Würzburg (BR-Standort),H,freenet TV3
+BY,BR,Würzburg (MB Standort),H,ARD,0
+BY,BR,Würzburg (MB Standort),H,ARD regional,0
+BY,BR,Würzburg (MB Standort),H,ZDF,26
+BY,BR,Würzburg (MB Standort),H,freenet TV1
+BY,BR,Würzburg (MB Standort),H,freenet TV2
+BY,BR,Würzburg (MB Standort),H,freenet TV3
+HE,HR,Habichtswald,H,ARD,46
+HE,HR,Habichtswald,H,ARD regional,29
+HE,HR,Habichtswald,H,ZDF,35
+HE,HR,Habichtswald,H,freenet TV1,28
+HE,HR,Habichtswald,H,freenet TV2,25
+HE,HR,Habichtswald,H,freenet TV3,48
+HE,HR,Hoher Meissner,H,ARD,46
+HE,HR,Hoher Meissner,H,ARD regional,29
+HE,HR,Hoher Meissner,H,ZDF,35
+HE,HR,Hoher Meissner,H,freenet TV1
+HE,HR,Hoher Meissner,H,freenet TV2
+HE,HR,Hoher Meissner,H,freenet TV3
+HE,HR,Kassel (Söhrewald),V,ARD,46
+HE,HR,Kassel (Söhrewald),V,ARD regional,29
+HE,HR,Kassel (Söhrewald),V,ZDF,35
+HE,HR,Kassel (Söhrewald),V,freenet TV1,28
+HE,HR,Kassel (Söhrewald),V,freenet TV2,25
+HE,HR,Kassel (Söhrewald),V,freenet TV3,48
+MV,NDR,Heringsdorf,V,ARD,36
+MV,NDR,Heringsdorf,V,ARD regional,29
+MV,NDR,Heringsdorf,V,ZDF,46
+MV,NDR,Heringsdorf,V,freenet TV1
+MV,NDR,Heringsdorf,V,freenet TV2
+MV,NDR,Heringsdorf,V,freenet TV3
+MV,NDR,Stralsund (Garz),H,ARD,36
+MV,NDR,Stralsund (Garz),H,ARD regional,29
+MV,NDR,Stralsund (Garz),H,ZDF,46
+MV,NDR,Stralsund (Garz),H,freenet TV1
+MV,NDR,Stralsund (Garz),H,freenet TV2
+MV,NDR,Stralsund (Garz),H,freenet TV3
+NI,NDR,Bad Lauterberg,H,ARD,38
+NI,NDR,Bad Lauterberg,H,ARD regional,58
+NI,NDR,Bad Lauterberg,H,ZDF
+NI,NDR,Bad Lauterberg,H,freenet TV1
+NI,NDR,Bad Lauterberg,H,freenet TV2
+NI,NDR,Bad Lauterberg,H,freenet TV3
+NI,NDR,Cuxhaven (Stadt),H,ARD,29
+NI,NDR,Cuxhaven (Stadt),H,ARD regional,36
+NI,NDR,Cuxhaven (Stadt),H,ZDF,35
+NI,NDR,Cuxhaven (Stadt),H,freenet TV1
+NI,NDR,Cuxhaven (Stadt),H,freenet TV2
+NI,NDR,Cuxhaven (Stadt),H,freenet TV3
+NI,NDR,Göttingen (Espol),H,ARD,23
+NI,NDR,Göttingen (Espol),H,ARD regional,40
+NI,NDR,Göttingen (Espol),H,ZDF,35
+NI,NDR,Göttingen (Espol),H,freenet TV1
+NI,NDR,Göttingen (Espol),H,freenet TV2
+NI,NDR,Göttingen (Espol),H,freenet TV3
+NI,NDR,Göttingen (Hetjershausen),V,ARD,23
+NI,NDR,Göttingen (Hetjershausen),V,ARD regional,40
+NI,NDR,Göttingen (Hetjershausen),V,ZDF
+NI,NDR,Göttingen (Hetjershausen),V,freenet TV1
+NI,NDR,Göttingen (Hetjershausen),V,freenet TV2
+NI,NDR,Göttingen (Hetjershausen),V,freenet TV3
+NI,NDR,Holzminden,V,ARD,22
+NI,NDR,Holzminden,V,ARD regional,58
+NI,NDR,Holzminden,V,ZDF
+NI,NDR,Holzminden,V,freenet TV1
+NI,NDR,Holzminden,V,freenet TV2
+NI,NDR,Holzminden,V,freenet TV3
+NI,NDR,Wolfsburg,V,ARD,22
+NI,NDR,Wolfsburg,V,ARD regional,42
+NI,NDR,Wolfsburg,V,ZDF,36
+NI,NDR,Wolfsburg,V,freenet TV1
+NI,NDR,Wolfsburg,V,freenet TV2
+NI,NDR,Wolfsburg,V,freenet TV3
+RP,SWR,Koblenz (Kühkopf),H,ARD,23
+RP,SWR,Koblenz (Kühkopf),H,ARD regional,33
+RP,SWR,Koblenz (Kühkopf),H,ZDF,28
+RP,SWR,Koblenz (Kühkopf),H,freenet TV1,31
+RP,SWR,Koblenz (Kühkopf),H,freenet TV2,47
+RP,SWR,Koblenz (Kühkopf),H,freenet TV3,25
+SN,MDR,Dresden (Wachwitz),V,ARD,39
+SN,MDR,Dresden (Wachwitz),V,ARD regional,34
+SN,MDR,Dresden (Wachwitz),V,ZDF,56
+SN,MDR,Dresden (Wachwitz),V,freenet TV1,46
+SN,MDR,Dresden (Wachwitz),V,freenet TV2,29
+SN,MDR,Dresden (Wachwitz),V,freenet TV3,42
+SN,MDR,Löbau,V,ARD,39
+SN,MDR,Löbau,V,ARD regional,34
+SN,MDR,Löbau,V,ZDF,56
+SN,MDR,Löbau,V,freenet TV1
+SN,MDR,Löbau,V,freenet TV2
+SN,MDR,Löbau,V,freenet TV3
+BY,BR,Augsburg (Hotelturm),H,ARD,41
+BY,BR,Augsburg (Hotelturm),H,ARD regional,22
+BY,BR,Augsburg (Hotelturm),H,ZDF,44
+BY,BR,Augsburg (Hotelturm),H,freenet TV1,33
+BY,BR,Augsburg (Hotelturm),H,freenet TV2,39
+BY,BR,Augsburg (Hotelturm),H,freenet TV3,25
+BY,BR,Gelbelsee,H,ARD,41
+BY,BR,Gelbelsee,H,ARD regional,22
+BY,BR,Gelbelsee,H,ZDF,44
+BY,BR,Gelbelsee,H,freenet TV1
+BY,BR,Gelbelsee,H,freenet TV2
+BY,BR,Gelbelsee,H,freenet TV3
+BY,BR,Pfaffenhofen,H,ARD,41
+BY,BR,Pfaffenhofen,H,ARD regional,22
+BY,BR,Pfaffenhofen,H,ZDF,44
+BY,BR,Pfaffenhofen,H,freenet TV1
+BY,BR,Pfaffenhofen,H,freenet TV2
+BY,BR,Pfaffenhofen,H,freenet TV3
+BY,BR,Hochberg,H,ARD,31
+BY,BR,Hochberg,H,ARD regional,30
+BY,BR,Hochberg,H,ZDF,34
+BY,BR,Hochberg,H,freenet TV1
+BY,BR,Hochberg,H,freenet TV2
+BY,BR,Hochberg,H,freenet TV3
+BY (A-Salzburg),BR,Untersberg,H,ARD,31
+BY (A-Salzburg),BR,Untersberg,H,ARD regional,30
+BY (A-Salzburg),BR,Untersberg,H,ZDF,34
+BY (A-Salzburg),BR,Untersberg,H,freenet TV1
+BY (A-Salzburg),BR,Untersberg,H,freenet TV2
+BY (A-Salzburg),BR,Untersberg,H,freenet TV3
+NI,NDR,Lingen,H,ARD,41
+NI,NDR,Lingen,H,ARD regional,37
+NI,NDR,Lingen,H,ZDF,45
+NI,NDR,Lingen,H,freenet TV1
+NI,NDR,Lingen,H,freenet TV2
+NI,NDR,Lingen,H,freenet TV3
+NI,NDR,Lüneburg,V,ARD,23
+NI,NDR,Lüneburg,V,ARD regional,40
+NI,NDR,Lüneburg,V,ZDF,33
+NI,NDR,Lüneburg,V,freenet TV1
+NI,NDR,Lüneburg,V,freenet TV2
+NI,NDR,Lüneburg,V,freenet TV3
+NI,NDR,Osnabrück,H,ARD,41
+NI,NDR,Osnabrück,H,ARD regional,37
+NI,NDR,Osnabrück,H,ZDF,45
+NI,NDR,Osnabrück,H,freenet TV1
+NI,NDR,Osnabrück,H,freenet TV2
+NI,NDR,Osnabrück,H,freenet TV3
+NI,NDR,Osnabrueck (Stadt),V,ARD,41
+NI,NDR,Osnabrueck (Stadt),V,ARD regional,37
+NI,NDR,Osnabrueck (Stadt),V,ZDF,45
+NI,NDR,Osnabrueck (Stadt),V,freenet TV1,24
+NI,NDR,Osnabrueck (Stadt),V,freenet TV2,27
+NI,NDR,Osnabrueck (Stadt),V,freenet TV3,39
+NW,WDR,Bielefeld,H,ARD,26
+NW,WDR,Bielefeld,H,ARD regional,31
+NW,WDR,Bielefeld,H,ZDF,33
+NW,WDR,Bielefeld,H,freenet TV1,24
+NW,WDR,Bielefeld,H,freenet TV2,27
+NW,WDR,Bielefeld,H,freenet TV3,39
+NW,WDR,Minden,H,ARD,26
+NW,WDR,Minden,H,ARD regional,31
+NW,WDR,Minden,H,ZDF,33
+NW,WDR,Minden,H,freenet TV1
+NW,WDR,Minden,H,freenet TV2
+NW,WDR,Minden,H,freenet TV3
+NW,WDR,Münster (Baumberge),V,ARD,32
+NW,WDR,Münster (Baumberge),V,ARD regional,34
+NW,WDR,Münster (Baumberge),V,ZDF,45
+NW,WDR,Münster (Baumberge),V,freenet TV1
+NW,WDR,Münster (Baumberge),V,freenet TV2
+NW,WDR,Münster (Baumberge),V,freenet TV3
+NW,WDR,Münster (Stadt),V,ARD,32
+NW,WDR,Münster (Stadt),V,ARD regional,34
+NW,WDR,Münster (Stadt),V,ZDF,45
+NW,WDR,Münster (Stadt),V,freenet TV1,24
+NW,WDR,Münster (Stadt),V,freenet TV2,27
+NW,WDR,Münster (Stadt),V,freenet TV3,39
+NW,WDR,Teutoburger Wald,V,ARD,26
+NW,WDR,Teutoburger Wald,V,ARD regional,31
+NW,WDR,Teutoburger Wald,V,ZDF,33
+NW,WDR,Teutoburger Wald,V,freenet TV1
+NW,WDR,Teutoburger Wald,V,freenet TV2
+NW,WDR,Teutoburger Wald,V,freenet TV3
+TH,MDR,Erfurt,V,ARD,21
+TH,MDR,Erfurt,V,ARD regional,27
+TH,MDR,Erfurt,V,ZDF,41
+TH,MDR,Erfurt,V,freenet TV1,44
+TH,MDR,Erfurt,V,freenet TV2,33
+TH,MDR,Erfurt,V,freenet TV3,47
+TH,MDR,Weimar,V,ARD,21
+TH,MDR,Weimar,V,ARD regional,27
+TH,MDR,Weimar,V,ZDF,41
+TH,MDR,Weimar,V,freenet TV1,44
+TH,MDR,Weimar,V,freenet TV2,33
+TH,MDR,Weimar,V,freenet TV3,47
+BY,BR,Amberg,H,ARD,23
+BY,BR,Amberg,H,ARD regional,47
+BY,BR,Amberg,H,ZDF,37
+BY,BR,Amberg,H,freenet TV1
+BY,BR,Amberg,H,freenet TV2
+BY,BR,Amberg,H,freenet TV3
+BY,BR,Bamberg,H,ARD,40
+BY,BR,Bamberg,H,ARD regional,30
+BY,BR,Bamberg,H,ZDF,37
+BY,BR,Bamberg,H,freenet TV1
+BY,BR,Bamberg,H,freenet TV2
+BY,BR,Bamberg,H,freenet TV3
+BY,BR,Ochsenkopf ,H,ARD,40
+BY,BR,Ochsenkopf ,H,ARD regional,30
+BY,BR,Ochsenkopf ,H,ZDF,37
+BY,BR,Ochsenkopf ,H,freenet TV1
+BY,BR,Ochsenkopf ,H,freenet TV2
+BY,BR,Ochsenkopf ,H,freenet TV3
+SN,MDR,Chemnitz (Geyer),V,ARD,25
+SN,MDR,Chemnitz (Geyer),V,ARD regional,32
+SN,MDR,Chemnitz (Geyer),V,ZDF,22
+SN,MDR,Chemnitz (Geyer),V,freenet TV1,46
+SN,MDR,Chemnitz (Geyer),V,freenet TV2,42
+SN,MDR,Chemnitz (Geyer),V,freenet TV3,29
+SN,MDR,Chemnitz (Reichenhain),V,ARD,25
+SN,MDR,Chemnitz (Reichenhain),V,ARD regional,32
+SN,MDR,Chemnitz (Reichenhain),V,ZDF,22
+SN,MDR,Chemnitz (Reichenhain),V,freenet TV1,46
+SN,MDR,Chemnitz (Reichenhain),V,freenet TV2,42
+SN,MDR,Chemnitz (Reichenhain),V,freenet TV3,29
+TH,MDR,Gera (Roschütz),V,ARD,25
+TH,MDR,Gera (Roschütz),V,ARD regional,27
+TH,MDR,Gera (Roschütz),V,ZDF,22
+TH,MDR,Gera (Roschütz),V,freenet TV1,43
+TH,MDR,Gera (Roschütz),V,freenet TV2,28
+TH,MDR,Gera (Roschütz),V,freenet TV3,47
+BW,SWR,Aalen,H,ARD,32
+BW,SWR,Aalen,H,ARD regional,28
+BW,SWR,Aalen,H,ZDF,23
+BW,SWR,Aalen,H,freenet TV1
+BW,SWR,Aalen,H,freenet TV2
+BW,SWR,Aalen,H,freenet TV3
+BW,SWR,Donaueschingen ,H,ARD,43
+BW,SWR,Donaueschingen ,H,ARD regional,47
+BW,SWR,Donaueschingen ,H,ZDF,37
+BW,SWR,Donaueschingen ,H,freenet TV1
+BW,SWR,Donaueschingen ,H,freenet TV2
+BW,SWR,Donaueschingen ,H,freenet TV3
+BW,SWR,Heilbronn (Weinsberg),H,ARD,32
+BW,SWR,Heilbronn (Weinsberg),H,ARD regional,28
+BW,SWR,Heilbronn (Weinsberg),H,ZDF,23
+BW,SWR,Heilbronn (Weinsberg),H,freenet TV1,35
+BW,SWR,Heilbronn (Weinsberg),H,freenet TV2,44
+BW,SWR,Heilbronn (Weinsberg),H,freenet TV3,24
+BW,SWR,Ravensburg,H,ARD,43
+BW,SWR,Ravensburg,H,ARD regional,47
+BW,SWR,Ravensburg,H,ZDF,37
+BW,SWR,Ravensburg,H,freenet TV1
+BW,SWR,Ravensburg,H,freenet TV2
+BW,SWR,Ravensburg,H,freenet TV3
+BW,SWR,Ulm,H,ARD,43
+BW,SWR,Ulm,H,ARD regional,47
+BW,SWR,Ulm,H,ZDF,37
+BW,SWR,Ulm,H,freenet TV1,33
+BW,SWR,Ulm,H,freenet TV2,39
+BW,SWR,Ulm,H,freenet TV3,36
+BW,SWR,Waldenburg,H,ARD,32
+BW,SWR,Waldenburg,H,ARD regional,28
+BW,SWR,Waldenburg,H,ZDF,23
+BW,SWR,Waldenburg,H,freenet TV1
+BW,SWR,Waldenburg,H,freenet TV2
+BW,SWR,Waldenburg,H,freenet TV3
+BY,BR,Garmisch (Kreuzeck),H,ARD,45
+BY,BR,Garmisch (Kreuzeck),H,ARD regional,46
+BY,BR,Garmisch (Kreuzeck),H,ZDF,40
+BY,BR,Garmisch (Kreuzeck),H,freenet TV1
+BY,BR,Garmisch (Kreuzeck),H,freenet TV2
+BY,BR,Garmisch (Kreuzeck),H,freenet TV3
+BY,BR,Grünten,H,ARD,45
+BY,BR,Grünten,H,ARD regional,46
+BY,BR,Grünten,H,ZDF,40
+BY,BR,Grünten,H,freenet TV1
+BY,BR,Grünten,H,freenet TV2
+BY,BR,Grünten,H,freenet TV3
+BY,BR,Hohenpeissenberg,H,ARD,45
+BY,BR,Hohenpeissenberg,H,ARD regional,46
+BY,BR,Hohenpeissenberg,H,ZDF,40
+BY,BR,Hohenpeissenberg,H,freenet TV1
+BY,BR,Hohenpeissenberg,H,freenet TV2
+BY,BR,Hohenpeissenberg,H,freenet TV3
+A,BR,Pfänder,H,ARD,45
+A,BR,Pfänder,H,ARD regional,46
+A,BR,Pfänder,H,ZDF
+A,BR,Pfänder,H,freenet TV1
+A,BR,Pfänder,H,freenet TV2
+A,BR,Pfänder,H,freenet TV3
+SL,SR,Berus,V,ARD,32
+SL,SR,Berus,V,ARD regional
+SL,SR,Berus,V,ZDF
+SL,SR,Berus,V,freenet TV1
+SL,SR,Berus,V,freenet TV2
+SL,SR,Berus,V,freenet TV3
+RP,SWR,Donnersberg,H,ARD,30
+RP,SWR,Donnersberg,H,ARD regional,46
+RP,SWR,Donnersberg,H,ZDF,37
+RP,SWR,Donnersberg,H,freenet TV1
+RP,SWR,Donnersberg,H,freenet TV2
+RP,SWR,Donnersberg,H,freenet TV3
+RP,SWR,Kaiserslautern (Dansenberg),H,ARD,30
+RP,SWR,Kaiserslautern (Dansenberg),H,ARD regional,46
+RP,SWR,Kaiserslautern (Dansenberg),H,ZDF,37
+RP,SWR,Kaiserslautern (Dansenberg),H,freenet TV1,35
+RP,SWR,Kaiserslautern (Dansenberg),H,freenet TV2,44
+RP,SWR,Kaiserslautern (Dansenberg),H,freenet TV3,40
+RP,SWR,Eifel,H,ARD,48
+RP,SWR,Eifel,H,ARD regional,46
+RP,SWR,Eifel,H,ZDF,37
+RP,SWR,Eifel,H,freenet TV1
+RP,SWR,Eifel,H,freenet TV2
+RP,SWR,Eifel,H,freenet TV3
+RP,SWR,Trier,H,ARD,48
+RP,SWR,Trier,H,ARD regional,46
+RP,SWR,Trier,H,ZDF,37
+RP,SWR,Trier,H,freenet TV1,35
+RP,SWR,Trier,H,freenet TV2,44
+RP,SWR,Trier,H,freenet TV3,40
+TH,MDR,Inselsberg,V,ARD,39
+TH,MDR,Inselsberg,V,ARD regional,27
+TH,MDR,Inselsberg,V,ZDF,41
+TH,MDR,Inselsberg,V,freenet TV1
+TH,MDR,Inselsberg,V,freenet TV2
+TH,MDR,Inselsberg,V,freenet TV3
+SH,NDR,Helgoland,H,ARD,47
+SH,NDR,Helgoland,H,ARD regional,39
+SH,NDR,Helgoland,H,ZDF,44
+SH,NDR,Helgoland,H,freenet TV1
+SH,NDR,Helgoland,H,freenet TV2
+SH,NDR,Helgoland,H,freenet TV3
+MV,NDR,Helpterberg,H,ARD,36
+MV,NDR,Helpterberg,H,ARD regional,22
+MV,NDR,Helpterberg,H,ZDF,23
+MV,NDR,Helpterberg,H,freenet TV1
+MV,NDR,Helpterberg,H,freenet TV2
+MV,NDR,Helpterberg,H,freenet TV3
+MV,NDR,Waren,H,ARD,36
+MV,NDR,Waren,H,ARD regional,22
+MV,NDR,Waren,H,ZDF,23
+MV,NDR,Waren,H,freenet TV1
+MV,NDR,Waren,H,freenet TV2
+MV,NDR,Waren,H,freenet TV3
+SH,NDR,Bredstedt,H,ARD,26
+SH,NDR,Bredstedt,H,ARD regional,24
+SH,NDR,Bredstedt,H,ZDF,31
+SH,NDR,Bredstedt,H,freenet TV1
+SH,NDR,Bredstedt,H,freenet TV2
+SH,NDR,Bredstedt,H,freenet TV3
+SH,NDR,Brunsbüttel,V,ARD,26
+SH,NDR,Brunsbüttel,V,ARD regional,24
+SH,NDR,Brunsbüttel,V,ZDF
+SH,NDR,Brunsbüttel,V,freenet TV1
+SH,NDR,Brunsbüttel,V,freenet TV2
+SH,NDR,Brunsbüttel,V,freenet TV3
+SH,NDR,Heide,H,ARD,26
+SH,NDR,Heide,H,ARD regional,24
+SH,NDR,Heide,H,ZDF,31
+SH,NDR,Heide,H,freenet TV1
+SH,NDR,Heide,H,freenet TV2
+SH,NDR,Heide,H,freenet TV3
+SH,NDR,Westerland (Sylt),H,ARD,26
+SH,NDR,Westerland (Sylt),H,ARD regional,24
+SH,NDR,Westerland (Sylt),H,ZDF,31
+SH,NDR,Westerland (Sylt),H,freenet TV1
+SH,NDR,Westerland (Sylt),H,freenet TV2
+SH,NDR,Westerland (Sylt),H,freenet TV3
+NW,WDR,Hochsauerland,H,ARD,21
+NW,WDR,Hochsauerland,H,ARD regional,44
+NW,WDR,Hochsauerland,H,ZDF,30
+NW,WDR,Hochsauerland,H,freenet TV1
+NW,WDR,Hochsauerland,H,freenet TV2
+NW,WDR,Hochsauerland,H,freenet TV3
+NW,WDR,Nordhelle,V,ARD,21
+NW,WDR,Nordhelle,V,ARD regional,44
+NW,WDR,Nordhelle,V,ZDF,30
+NW,WDR,Nordhelle,V,freenet TV1
+NW,WDR,Nordhelle,V,freenet TV2
+NW,WDR,Nordhelle,V,freenet TV3
+NW,WDR,Siegen (Stadt),V,ARD,21
+NW,WDR,Siegen (Stadt),V,ARD regional,44
+NW,WDR,Siegen (Stadt),V,ZDF,30
+NW,WDR,Siegen (Stadt),V,freenet TV1
+NW,WDR,Siegen (Stadt),V,freenet TV2
+NW,WDR,Siegen (Stadt),V,freenet TV3

@@ -1,0 +1,172 @@
+# Filename: de-Rheinland-Pfalz-dvb-t2
+# Menu Pre-defined muxes: "Germany: de-Rheinland-Pfalz-dvb-t2"
+# Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
+# Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
+# Land: RP, Sender: SWR
+# ARD
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH23: Das Erste HD, tagesschau24 HD, arte HD, Phoenix HD, ONE HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 490000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Donnersberg[H], Kaiserslautern (Dansenberg)[H]
+[CH30: Das Erste HD, tagesschau24 HD, arte HD, Phoenix HD, ONE HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 546000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Eifel[H], Trier[H]
+[CH48: Das Erste HD, tagesschau24 HD, arte HD, Phoenix HD, ONE HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 690000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# ARD Regional
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH33: SWR BW HD, SWR RP HD, BR Süd HD, hr HD, WDR Köln HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 570000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Donnersberg[H], Kaiserslautern (Dansenberg)[H]
+# Sendername[Polarisation]: Eifel[H], Trier[H]
+[CH46: SWR BW HD, SWR RP HD, BR Süd HD, hr HD, WDR Köln HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 674000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# ZDF 
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH28: SWR BW HD, SWR RP HD, BR Süd HD, hr HD, WDR Köln HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 530000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Donnersberg[H], Kaiserslautern (Dansenberg)[H]
+# Sendername[Polarisation]: Eifel[H], Trier[H]
+[CH37: ZDF HD, 3sat HD, zdf_neo HD, zdf_info HD, KIKA HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 602000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# freenet TV1
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH31: RTLHD, VOX HD, SUPER RTL HD, RTL II HD, n-tv HD, RTL NITRO HD, Tele 5 HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 554000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Kaiserslautern (Dansenberg)[H]
+# Sendername[Polarisation]: Trier[H]
+[CH35: RTLHD, VOX HD, SUPER RTL HD, RTL II HD, n-tv HD, RTL NITRO HD, Tele 5 HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 586000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# freenet TV2
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH47: RTLHD, VOX HD, SUPER RTL HD, RTL II HD, n-tv HD, RTL NITRO HD, Tele 5 HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 682000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Kaiserslautern (Dansenberg)[H]
+# Sendername[Polarisation]: Trier[H]
+[CH44: SAT.1 HD, ProSieben HD, kabel eins HD, SIXX HD, Pro7 MAXX HD, SAT.1 Gold HD, Sport1]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 658000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# freenet TV3
+# Sendername[Polarisation]: Koblenz (Kühkopf)[H]
+[CH25: RTLHD, VOX HD, SUPER RTL HD, RTL II HD, n-tv HD, RTL NITRO HD, Tele 5 HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 506000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Sendername[Polarisation]: Kaiserslautern (Dansenberg)[H]
+# Sendername[Polarisation]: Trier[H]
+[CH40: DisneyChannel HD, Welt HD, DMAX HD, EUROSPORT 1 HD, nickelodeon HD, QVC HD, HSE24 HD, bibel.TV HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 626000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
