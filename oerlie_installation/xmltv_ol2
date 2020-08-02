@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="TVHeadend-4.2.8-36 ~ LibreELEC Tvh-addon v9.2.0.121" source-info-name="tvh-Tvheadend">
+<channel id="6676388087cf48367e3b5e9fca0a7cea;SUPER RTL HD;src="http://oerlie-ma:9981/imagecache/13"/>
+</channel>
+<channel id="e40c958079941edc938fb13e4a10b85a;Realitatea TV</display-name>
+  <display-name>305;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png"/>
+</channel>
+<channel id="104fb28008b7ee7bdc3586f06c0c867e;Al Jazeera English</display-name>
+  <display-name>148;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png"/>
+</channel>
+<channel id="07eb9481f1f8b16166a010a3c6eee279;phoenix HD</display-name>
+  <display-name>14;src="http://oerlie-ma:9981/imagecache/6"/>
+</channel>
+<channel id="82031205caf3c98078c39c2f5f190158;Nickelodeon</display-name>
+  <display-name>128;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png"/>
+</channel>
+<channel id="ce123f055f772e51c10bc8a93d604991;NDR Mecklenburg-Vorpommern HD</display-name>
+  <display-name>122;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png"/>
+</channel>
+<channel id="32cdf406e05f988d44e3b9c0022abaab;m2o Tv</display-name>
+  <display-name>397;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png"/>
+</channel>
+<channel id="fdf5f90680445717d413e641a7cf4431;OK Trier</display-name>
+  <display-name>345;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png"/>
+</channel>
+<channel id="d9185407a40b94f55f2c47a261d1e465;NITRO HD;src="http://oerlie-ma:9981/imagecache/16"/>
+</channel>
+<channel id="547a68076e386cb855f7aa28ed3c2ce0;ORF 2 HD</display-name>
+  <display-name>130;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png"/>
+</channel>
+<channel id="b3c936087fc4d7170a6c1e83f506aba4;tagesschau24</display-name>
+  <display-name>113;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png"/>
+</channel>
+<channel id="843f1d898709521f363744d6a59035e5;MTV Germany</display-name>
+  <display-name>244;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png"/>
+</channel>
+<channel id="f568eb8987f3fb062d501ad8de8c5ec3;Create &amp; Craft TV</display-name>
+  <display-name>284;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png"/>
+</channel>
+<channel id="e262888bf90b1aec24e702d5350a33a9;RFO</display-name>
+  <display-name>185;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png"/>
+</channel>
+<channel id="22c5a28b1045719ff8099392aa807fcb;SR Fernsehen HD (Internet)</display-name>
+  <display-name>21;src="http://oerlie-ma:9981/imagecache/10"/>
+</channel>
+<channel id="c345148c061531b2968c1eabdfd7909e;Chemnitz Fernsehen</display-name>
+  <display-name>330;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png"/>
+</channel>
+<channel id="e07ed30daccaa6e7f99f27dac362c9bf;SR Fernsehen HD</display-name>
+  <display-name>118;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png"/>
+</channel>
+<channel id="002c3d8f88088135965cfef253ff0fbf;ONE HD</display-name>
+  <display-name>112;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png"/>
+</channel>
+<channel id="67a2e58fda840b036cc2772fedab2152;Bibel TV HD</display-name>
+  <display-name>20;src="http://oerlie-ma:9981/imagecache/58"/>
+</channel>
+<channel id="8d0f4d101864d8db6f6fc2ee20e98045;nrwision</display-name>
+  <display-name>342;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png"/>
+</channel>
+<channel id="6f64d8905aa7ff69c0316d28b1fcd90f;K-TV</display-name>
+  <display-name>230;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png"/>
+</channel>
+<channel id="3ce12891caee8018d80777df714915ab;MDR Thüringen HD</display-name>
+  <display-name>109;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"/>
+</channel>
+<channel id="11d4b311238cda9d8f85756cd52a66da;rbb Berlin HD</display-name>
+  <display-name>8;src="http://oerlie-ma:9981/imagecache/42"/>
+</channel>
+<channel id="ef160e92aaff376c50a9c22611b42741;KiKA</display-name>
+  <display-name>116;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png"/>
+</channel>
+<channel id="270bc692dc38c4bfc2e1d977b3246866;OK Koblenz</display-name>
+  <display-name>344;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png"/>
+</channel>
+<channel id="cab2f914d933a1d69eba95332599dc7d;DJing Classics</display-name>
+  <display-name>361;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png"/>
+</channel>
+<channel id="4327b3163fdcd5d3b2db24e8ce777155;Eurosport 1 HD;src="http://oerlie-ma:9981/imagecache/53"/>
+</channel>
+<channel id="e0337797ce0af7c7a59eb8ecbb69bcc5;Bibel TV</display-name>
+  <display-name>117;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png"/>
+</channel>
+<channel id="5f9ef7971b569bbbc7ad149788e96628;NICK HD;src="http://oerlie-ma:9981/imagecache/54"/>
+</channel>
+<channel id="5dd80b183517361b5f37755006c5b807;Deutsche Welle (EN)</display-name>
+  <display-name>133;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"/>
+</channel>
+<channel id="d6d7579816bb40fec4a583946e983073;HR Event 2</display-name>
+  <display-name>226;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png"/>
+</channel>
+<channel id="96b47d18815f585c575bae54c5b65622;rbb Brandenburg HD</display-name>
+  <display-name>124;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png"/>
+</channel>
+<channel id="8963d5199274da813d6d457d908c8bca;SWR Rheinland-Pfalz HD</display-name>
+  <display-name>104;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png"/>
+</channel>
+<channel id="2ab70c1ab41b5105813cd0b46c85fdc5;Tele 5 HD;src="http://oerlie-ma:9981/imagecache/17"/>
+</channel>
+<channel id="15c1369a4cc680c9998cc247ac1967d6;RiC / eoTV</display-name>
+  <display-name>243;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png"/>
+</channel>
+<channel id="a267ac9aa91bf9766bae10b34f1d0fd7;NDR Schleswig-Holstein HD</display-name>
+  <display-name>120;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png"/>
+</channel>
+<channel id="26de451c00f4d555a4d28d256a594651;SIXX HD;src="http://oerlie-ma:9981/imagecache/24"/>
+</channel>
+<channel id="b3a54c1c181af9138136d11913e7fa4b;ZDF HD</display-name>
+  <display-name>102;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png"/>
+</channel>
+<channel id="d626059e30b13870863f52aeaeedddab;TRT World HD</display-name>
+  <display-name>145;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png"/>
+</channel>
+<channel id="9fb4b11fd2611bb643ae79c5bca86acf;QVC HD;src="http://oerlie-ma:9981/imagecache/56"/>
+</channel>
+<channel id="76fddc1f9009b986371c17a3b98bd847;ServusTV HD</display-name>
+  <display-name>241;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png"/>
+</channel>
+<channel id="314553a093b55a9740f77faf6f8cf68c;DJing Underground</display-name>
+  <display-name>369;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png"/>
+</channel>
+<channel id="241b03a13b0f3cfc915670f995ee32f8;DJing Ibiza</display-name>
+  <display-name>366;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png"/>
+</channel>
+<channel id="4bc12921147682ecf236c0c8a71064f0;Leipzig Fernsehen</display-name>
+  <display-name>338;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png"/>
+</channel>
+<channel id="81b696214cea1965cd92ad3ed84cc990;SAT.1 Gold HD;src="http://oerlie-ma:9981/imagecache/26"/>
+</channel>
+<channel id="efdfd82141999982470ea954c7880bb4;Das Erste HD</display-name>
+  <display-name>101;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png"/>
+</channel>
+<channel id="aaca8623609e188e9f11e7e2fe33876c;hr-fernsehen HD</display-name>
+  <display-name>3;src="http://oerlie-ma:9981/imagecache/39"/>
+</channel>
+<channel id="c4c771a537f6f125f44c8d77a6ccde7d;ARTE HD (FR)</display-name>
+  <display-name>292;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png"/>
+</channel>
+<channel id="ae98e5a5c7338f342b881d323afe72ab;zdf_neo HD</display-name>
+  <display-name>13;src="http://oerlie-ma:9981/imagecache/34"/>
+</channel>
+<channel id="a6f42a27a53bf94a9206b6319cb41e8a;BR Fernsehen Nord HD</display-name>
+  <display-name>105;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png"/>
+</channel>
+<channel id="313d4528ed69b3602d7ef45820fd4f64;noa4 Hamburg HD</display-name>
+  <display-name>340;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png"/>
+</channel>
+<channel id="2dcf3ca9401fa607477e3b8daaebd339;Telebasel</display-name>
+  <display-name>382;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png"/>
+</channel>
+<channel id="987801aba7bee3fbdbfefece5c67def6;Das Erste HD</display-name>
+  <display-name>1;src="http://oerlie-ma:9981/imagecache/4"/>
+</channel>
+<channel id="27d04f2cb4955099a3b94fba765792c4;1-2-3.tv</display-name>
+  <display-name>235;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png"/>
+</channel>
+<channel id="ca60ae2c0de13c90c653904e52104618;ProSieben HD;src="http://oerlie-ma:9981/imagecache/22"/>
+</channel>
+<channel id="baeecf2c6a078c9cf9cc496e82f28d07;ALBUK TV</display-name>
+  <display-name>407;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png"/>
+</channel>
+<channel id="dbee2fad820e43f313811268f0215f41;Rhein Neckar Fernsehen</display-name>
+  <display-name>349;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png"/>
+</channel>
+<channel id="620ce4af615f050585c46df11d56403d;TeleZüri HD</display-name>
+  <display-name>178;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png"/>
+</channel>
+<channel id="9b1d0cb06933897c1af26b37d1a777e8;kabel eins HD;src="http://oerlie-ma:9981/imagecache/23"/>
+</channel>
+<channel id="0a8e29308e43d8f544f7e596a6c591b3;arte HD</display-name>
+  <display-name>110;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png"/>
+</channel>
+<channel id="56767eb1ea3602ab342a988a7a3af7de;pearl.tv</display-name>
+  <display-name>324;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png"/>
+</channel>
+<channel id="2d4c3e32d162de4bf38565e2896a9c57;France 24</display-name>
+  <display-name>293;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png"/>
+</channel>
+<channel id="3a28bcb2c016c0c777a364949cbbd69f;münchen.tv</display-name>
+  <display-name>169;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png"/>
+</channel>
+<channel id="a30257b519248cc818f84654303404f6;WELT</display-name>
+  <display-name>115;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png"/>
+</channel>
+<channel id="b23ee1b5eae2ff21e53a85bf8396e8dc;NHK WORLD TV</display-name>
+  <display-name>405;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png"/>
+</channel>
+<channel id="2f2228b7af9f03063250acf7abb64e42;ZDFinfo HD</display-name>
+  <display-name>16;src="http://oerlie-ma:9981/imagecache/33"/>
+</channel>
+<channel id="b9b478b782d2744da26908467d3269d3;Three</display-name>
+  <display-name>394;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/three.png"/>
+</channel>
+<channel id="ba9a0fb87c2143362083ff49c5deccee;HSE24 HD;src="http://oerlie-ma:9981/imagecache/57"/>
+</channel>
+<channel id="a2b232384dd7712d356b7507ea562212;ERF 1</display-name>
+  <display-name>232;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png"/>
+</channel>
+<channel id="06ae43b8327aa113d3604dfaa49b3935;3sat HD</display-name>
+  <display-name>11;src="http://oerlie-ma:9981/imagecache/35"/>
+</channel>
+<channel id="f9caa538304240fd7b72691f878100f6;noa4 Norderstedt HD</display-name>
+  <display-name>341;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png"/>
+</channel>
+<channel id="514003b9c4ef4d8bac1c5d6b279b8685;TRP1</display-name>
+  <display-name>351;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png"/>
+</channel>
+<channel id="0e3fba3af3de6234ecab14bc15728939;dorf tv</display-name>
+  <display-name>371;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png"/>
+</channel>
+<channel id="9e0460bcfa8bf6beadc93a6cd88ff560;TVM3</display-name>
+  <display-name>273;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png"/>
+</channel>
+<channel id="1434cebde3daf4c2a5bfd9bdd070df23;EWTN katholisches TV</display-name>
+  <display-name>231;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png"/>
+</channel>
+<channel id="c36fe8be16109fb21274f62b1f01fe6c;ANIXE HD</display-name>
+  <display-name>127;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png"/>
+</channel>
+<channel id="b36387bfd82a87c6c68c3d06296d4f50;Bloomberg TV</display-name>
+  <display-name>142;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png"/>
+</channel>
+<channel id="22e275c017e61769082ca855be8ec1bd;BR Event 4</display-name>
+  <display-name>222;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"/>
+</channel>
+<channel id="84d596c06ed1411348e842c046e0a373;M4TV</display-name>
+  <display-name>375;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png"/>
+</channel>
+<channel id="4b823241ac98fe4680d11d9a2bede371;Genius Plus TV</display-name>
+  <display-name>326;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png"/>
+</channel>
+<channel id="d15d0f429bb15c833ac755079dd12fb6;Dresden Fernsehen</display-name>
+  <display-name>333;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png"/>
+</channel>
+<channel id="dc15a0c28e59e3c2ed767d22a4f3b1b9;CBSN</display-name>
+  <display-name>386;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png"/>
+</channel>
+<channel id="a06611466dd29c0ffa3bbf38965f0e74;a.tv</display-name>
+  <display-name>248;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png"/>
+</channel>
+<channel id="6ba9c8c6ce7f20f3e0db2afe1e2600c0;NDR FS NDS HD</display-name>
+  <display-name>7;src="http://oerlie-ma:9981/imagecache/41"/>
+</channel>
+<channel id="8b3bd5c6d9d9fbaf60f7c0cc0b7972bf;arte HD</display-name>
+  <display-name>10;src="http://oerlie-ma:9981/imagecache/5"/>
+</channel>
+<channel id="fc062f488108a133e3e9b78c0f7190ec;TV Würzburg</display-name>
+  <display-name>354;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png"/>
+</channel>
+<channel id="04dc6e48389788a29aa155dd9171b873;health.tv</display-name>
+  <display-name>322;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png"/>
+</channel>
+<channel id="275ee548a93da517300d4185d223bfd4;SWR RP HD</display-name>
+  <display-name>4;src="http://oerlie-ma:9981/imagecache/40"/>
+</channel>
+<channel id="8617efc873c5fa06351c473c898e7166;TVO (CH)</display-name>
+  <display-name>271;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png"/>
+</channel>
+<channel id="76e0f64c81b26b058c2aba882e1f0f00;Folx TV</display-name>
+  <display-name>247;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png"/>
+</channel>
+<channel id="5d8aeb4dd427d7fc6ce4f73a9b4fd6ca;KiKA HD</display-name>
+  <display-name>19;src="http://oerlie-ma:9981/imagecache/36"/>
+</channel>
+<channel id="d84b0a4ecf63b263cef5bec1f5142a7f;BR Event 2</display-name>
+  <display-name>220;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"/>
+</channel>
+<channel id="1b58e3ce3bba151165ed0f948c5b95c2;Tele M1 HD</display-name>
+  <display-name>270;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png"/>
+</channel>
+<channel id="2e6543d0b00a13a22a8b9b188170618a;MDR Thüringen HD (Internet)</display-name>
+  <display-name>9;src="http://oerlie-ma:9981/imagecache/45"/>
+</channel>
+<channel id="06e275d09df277ca62f70abb5501044a;CBN News</display-name>
+  <display-name>387;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png"/>
+</channel>
+<channel id="a61f9b50c1ccfc3f89c4849be22d50cb;QVC PLUS</display-name>
+  <display-name>238;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png"/>
+</channel>
+<channel id="8a6269d31229a0b36f75d7c32e14897b;Deutsche Welle</display-name>
+  <display-name>132;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"/>
+</channel>
+<channel id="92ea69d43bafc073d32e6d7d8e2dc9cb;VISIT-X.tv</display-name>
+  <display-name>323;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png"/>
+</channel>
+<channel id="9aa3945411fab9ce882729380f8aeff5;n-tv HD;src="http://oerlie-ma:9981/imagecache/15"/>
+</channel>
+<channel id="5ec48e5554abb0a6bf412732a06f2f42;BR Event 3</display-name>
+  <display-name>221;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"/>
+</channel>
+<channel id="9d7a9455aa9c15eae436cba998b283bf;WDR HD Köln (Internet)</display-name>
+  <display-name>6;src="http://oerlie-ma:9981/imagecache/44"/>
+</channel>
+<channel id="9f30f8551aa97970c53dd15e9953cdb2;WDR HD</display-name>
+  <display-name>107;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png"/>
+</channel>
+<channel id="cb59a1d69e37501a7657e0a5bfa3bbb7;QVC2 HD;src="http://oerlie-ma:9981/imagecache/60"/>
+</channel>
+<channel id="f744b95658d46859e6edad233c211059;freenet Shopping;src="http://oerlie-ma:9981/imagecache/59"/>
+</channel>
+<channel id="9733a557c7b794b272591b3c724c30f7;ONE HD</display-name>
+  <display-name>12;src="http://oerlie-ma:9981/imagecache/8"/>
+</channel>
+<channel id="82f8ef58fd79962b828ed5df9919dfe9;BR Event 1</display-name>
+  <display-name>219;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"/>
+</channel>
+<channel id="a4169f59b3106a55e93fc435511960da;Pro7 MAXX HD;src="http://oerlie-ma:9981/imagecache/25"/>
+</channel>
+<channel id="c5685bdaa61017e5b383caa7d93e1d5a;SWR Baden-Württemberg HD </display-name>
+  <display-name>119;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png"/>
+</channel>
+<channel id="c3a0d45a3b40da9a650beab2410932b2;QVC Beauty &amp; Style</display-name>
+  <display-name>325;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png"/>
+</channel>
+<channel id="b54e055b5be58ff8814da33a6e0672c5;Baden TV</display-name>
+  <display-name>329;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png"/>
+</channel>
+<channel id="36e4425b33a63c20ef0f1c696f9284bb;Oberpfalz TV</display-name>
+  <display-name>343;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png"/>
+</channel>
+<channel id="24a9ae5bf8c1bd5071def7cc88f55808;1-2-3.tv HD;src="http://oerlie-ma:9981/imagecache/55"/>
+</channel>
+<channel id="1c9d6f5d377d9e421245c8cfd66ad303;hr-fernsehen</display-name>
+  <display-name>103;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png"/>
+</channel>
+<channel id="0263eb5d869f7c77da02e8031b4a976d;rbb Berlin HD</display-name>
+  <display-name>108;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png"/>
+</channel>
+<channel id="d780cddebad1f8899a3ef3231b7c45e2;Okto</display-name>
+  <display-name>262;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png"/>
+</channel>
+<channel id="34f8e4df0b7e813c2a47608e9d866bcf;BR Fernsehen Süd HD</display-name>
+  <display-name>123;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png"/>
+</channel>
+<channel id="d76df25fa2ee3da6f64f24e1fdaf4556;Deutsches Musik Fernsehen</display-name>
+  <display-name>229;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png"/>
+</channel>
+<channel id="4d0336e1fba048f0324ee685b3fbb9ac;WELT HD</display-name>
+  <display-name>18;src="http://oerlie-ma:9981/imagecache/51"/>
+</channel>
+<channel id="65f09e6109b721a3ce1a36ad331d8fb7;L-TV</display-name>
+  <display-name>337;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png"/>
+</channel>
+<channel id="bde33765ccff5a7aa5ccaf9ae165536b;MDR Sachsen HD</display-name>
+  <display-name>125;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"/>
+</channel>
+<channel id="d5172ee67e5c7f5fda375e43c98e2d32;Sylt1</display-name>
+  <display-name>350;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png"/>
+</channel>
+<channel id="70c65de8c7200a136c093155ac423802;QVC</display-name>
+  <display-name>237;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png"/>
+</channel>
+<channel id="f3ea36e9caa2b3d52c6160e1f3e079e1;Disney Channel HD;src="http://oerlie-ma:9981/imagecache/50"/>
+</channel>
+<channel id="e7b5a5e91f8cbd230be4660fda64130b;SAT.1 HD RhlPf/Hessen;src="http://oerlie-ma:9981/imagecache/28"/>
+</channel>
+<channel id="c415df692d9fd87d3f0a728f0fbaf28f;MDR Sachsen-Anhalt HD</display-name>
+  <display-name>126;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png"/>
+</channel>
+<channel id="ac511f6ab124b4d10f9a558add866c3d;Isar TV</display-name>
+  <display-name>335;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png"/>
+</channel>
+<channel id="9508196b86b8a9f2bf3f2e0aeccd996a;DJing Animation</display-name>
+  <display-name>360;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png"/>
+</channel>
+<channel id="dcca12ec6cb67b585fc1e62904fd13f3;allgäu.tv</display-name>
+  <display-name>328;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png"/>
+</channel>
+<channel id="241118ece58bd3e70228806fcdf34cd7;ARD-alpha HD (Internet)</display-name>
+  <display-name>17;src="http://oerlie-ma:9981/imagecache/9"/>
+</channel>
+<channel id="350626eca55e00bb5c3ac9259ac02964;BR Fernsehen Nord HD</display-name>
+  <display-name>5;src="http://oerlie-ma:9981/imagecache/43"/>
+</channel>
+<channel id="cef1676d890f64b62b767f064eda1c0b;oe24 TV</display-name>
+  <display-name>374;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png"/>
+</channel>
+<channel id="7f2a90ed8b4cccb8dc1a7a287a5470a5;Digi 24 HD</display-name>
+  <display-name>303;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png"/>
+</channel>
+<channel id="30e9d7ed3addc025e21964c6a17b3caa;VOX HD;src="http://oerlie-ma:9981/imagecache/12"/>
+</channel>
+<channel id="3da210ef412e768d0029240e5e0566ea;TVA</display-name>
+  <display-name>355;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png"/>
+</channel>
+<channel id="96285f6f2f2ad8fd39623de047da8401;Regio TV Schwaben</display-name>
+  <display-name>348;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png"/>
+</channel>
+<channel id="8dbd7e718f5f33921c9f564b0a7118e4;RTL HD Hessen;src="http://oerlie-ma:9981/imagecache/18"/>
+</channel>
+<channel id="25b3f7718dca8fa0b0506d5715fcb1bd;ARD-alpha</display-name>
+  <display-name>114;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png"/>
+</channel>
+<channel id="0761a9723bf1950640b94ddede4e9b70;DJing Hot Hot Hot</display-name>
+  <display-name>365;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png"/>
+</channel>
+<channel id="79446774d4ece5dad1dc350f2eebac3e;NDR Niedersachsen HD</display-name>
+  <display-name>106;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png"/>
+</channel>
+<channel id="6c0a75f471005b0caa84f1d5406afb00;ABC News</display-name>
+  <display-name>383;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png"/>
+</channel>
+<channel id="bb3d63f60a5837f2d02766fb6d63d486;Sport1 HD;src="http://oerlie-ma:9981/imagecache/27"/>
+</channel>
+<channel id="a45b68777e2660d1daae5410865fd592;Donau TV</display-name>
+  <display-name>332;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png"/>
+</channel>
+<channel id="518e7977645530b56eddb4891901c3eb;Kronehit TV</display-name>
+  <display-name>376;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png"/>
+</channel>
+<channel id="1feeb9f70de20a57d9e98ae1a0951bef;DMAX HD;src="http://oerlie-ma:9981/imagecache/52"/>
+</channel>
+<channel id="dedbe778de3e395a2ac6a8038ccd3a41;TeleBielingue</display-name>
+  <display-name>272;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png"/>
+</channel>
+<channel id="4df31d794de53b8abc9a62d0e2f65b87;NDR Hamburg HD</display-name>
+  <display-name>121;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png"/>
+</channel>
+<channel id="5cae33fa737c7a732e548d7c97325d7a;TeleBärn HD</display-name>
+  <display-name>381;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png"/>
+</channel>
+<channel id="570502fb1b5e5ac2910aa7cf20a5fd70;ZDF HD</display-name>
+  <display-name>2;src="http://oerlie-ma:9981/imagecache/32"/>
+</channel>
+<channel id="6e9404fb39af402f119e966775b0fb68;Tirol TV</display-name>
+  <display-name>373;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png"/>
+</channel>
+<channel id="60669ffb4238fa611ad2b7e7ab978a90;Westerwald TV</display-name>
+  <display-name>356;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png"/>
+</channel>
+<channel id="1b9377fdb2a76c7059092b82bc84450d;Sky Sport News HD</display-name>
+  <display-name>136;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png"/>
+</channel>
+<channel id="2b0bef7d467e871907c9a9e9729e0eaf;tagesschau24 HD</display-name>
+  <display-name>15;src="http://oerlie-ma:9981/imagecache/7"/>
+</channel>
+<channel id="ac76197e1b5e6a18735b8c44a6f75891;RTL II HD;src="http://oerlie-ma:9981/imagecache/14"/>
+</channel>
+<channel id="6d4f837e48296f475471e3d78359e3e1;KabelJournal</display-name>
+  <display-name>336;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png"/>
+</channel>
+<channel id="ecb7c77e8020751f5f8772879549035a;3sat</display-name>
+  <display-name>111;src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png"/>
+</channel>
