@@ -1,6 +1,6 @@
 #!/bin/bash
 # Datei: 32_oerlie_config_tvh_clear_init.sh
-# Stand: 01.02.2020
+# Stand: 03.08.2020
 # Inhalt: TvHeadend Installation vorbereiten, Konfigurationsdateien bereitstellen
 #-----------------------------------------------------------------------
 set -x
@@ -45,7 +45,7 @@ ps -ef|grep tvheadend
 dvbtscantabspath="/storage/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t"
 ls -la $dvbtscantabspath/de*
 rm $dvbtscantabspath/de*
-cp oerlie_dvbt_configuration/de* $dvbtscantabspath
+cp /storage/oerlie/dvbt/de* $dvbtscantabspath
 ls -la $dvbtscantabspath/de*
 
 ps -ef|grep tvheadend
@@ -84,6 +84,7 @@ rm kn-pipe-tv-adapted-one-line
 rm kn-pipe-tv-adapted-one-line-sorted
 rm sort-sed
 rm sort-sed-clean
+mv kn-pipe-tv-adapted-sorted /storage/oerlie/iptv
 
 set +x
 
@@ -101,7 +102,7 @@ echo "   Fenster 'Welcome - Tvheadend - your ...' : Network access, Administrato
 echo "   Fenster 'Network Settings' : 'Network 1' : Tuner > IPTV ; Network type > IPTV Automatic Network"
 echo "   Fenster 'Network Settings' : 'Network 2' : Tuner > [Sony CXD2880 ...|...|...] ; Network type > DVB-T Network"
 echo "   Fenster 'Assign predefined muxes to networks' : 'Network 1': Network: DVB-T Network;  Pre-defined muxes : Germany: de-generic-all-channels"
-echo "   Fenster 'Assign predefined muxes to networks' : 'Network 2': Network: IPTV Automatic Network;  URL : file:///storage/downloads/kn-pipe-tv-adapted-sorted"
+echo "   Fenster 'Assign predefined muxes to networks' : 'Network 2': Network: IPTV Automatic Network;  URL : file:///storage/oerlie/iptv/kn-pipe-tv-adapted-sorted"
 echo "   --> Als Ergebnis erscheint z.B. 'Found muxes 259'; 'Found services 155'"
 echo "   Fenster 'Service mapping' : Map all services; Create provider tags; Create network tags"
 echo "   Configuration > DVB Inputs > Networks > IPTV Automatc Network > Edit > Channel numbers from 101 > Save"
