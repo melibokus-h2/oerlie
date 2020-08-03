@@ -1,0 +1,212 @@
+# Filename: de-Rhein-Main-Neckar
+# Date: 29.04.2019
+# Menu Pre-defined muxes: "Germany: de-Rhein-Main-Neckar"
+# Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
+# Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
+# ---
+# Land: HE, Sender: HR, Polarisation: V 
+# Sendername: Darmstadt (hr-Standort), Frankfurt, Großer Feldberg, Hohe Wurzel, Rimberg, Würzberg
+[CH42: ARD, Das Erste HD, tagesschau24 HD, arte HD, Phoenix HD, ONE HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 642000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH34: ARD Regional, hr HD, BR Nord (HD), SWR RP HD, rbb Berlin HD, NDR FS NDS HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 578000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH22: ZDF]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 482000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH31: freenet TV1]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 554000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH25: freenet TV2]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 506000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH47: freenet TV3]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 682000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Land: RP, Sender: SWR, Polarisation: H
+# Sendername: Donnersberg, Kaiserslautern (Dansenberg), Eifel, Trier
+[CH30: ARD, Das Erste HD, tagesschau24 HD, arte HD, Phoenix HD, ONE HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 546000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH46: ARD Regional, SWR BW HD, SWR RP HD, BR Süd HD, hr HD, WDR Köln HD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 674000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH37: ZDF]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 602000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# nur Sendername: Kaiserslautern (Dansenberg), Trier
+[CH35: freenet TV1]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 586000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH44: freenet TV2]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 658000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH40: freenet TV3]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 626000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# Land: BW, Sender: SWR, Polarisation: H
+# Sendername: Heidelberg, Mannheim
+[CH27: ARD]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 522000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH21: ARD Regional]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 474000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH41: ZDF]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 634000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+# nur Sendername: Kaiserslautern (Dansenberg), Trier
+[CH35: freenet TV1]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 586000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH44: freenet TV2]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 658000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO
+[CH24: freenet TV3]
+        DELIVERY_SYSTEM = DVB-T2
+        FREQUENCY = 498000000
+        BANDWIDTH_HZ = 8000000
+        CODE_RATE_HP = AUTO
+        CODE_RATE_LP = AUTO
+        MODULATION = QAM/AUTO
+        TRANSMISSION_MODE = AUTO
+        GUARD_INTERVAL = AUTO
+        HIERARCHY = AUTO
+        INVERSION = AUTO

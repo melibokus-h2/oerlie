@@ -1,0 +1,156 @@
+# Filename: de-Sachsen-Anhalt
+# Date: 29.04.2019
+# Menu Pre-defined muxes: "Germany: de-Sachsen-Anhalt"
+# Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
+# Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
+# ---
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: ZDF
+[CH22: ZDF]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 482000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: ARD
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Wittenberg (Gallunberg), Polarisation: V, Programmgruppe: ARD
+[CH24: ARD]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 498000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: freenet TV3
+[CH26: freenet TV3]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 514000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: freenet TV2
+[CH28: freenet TV2]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 530000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: freenet TV2
+[CH29: freenet TV2]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 538000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Brocken, Polarisation: V, Programmgruppe: ARD
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: ARD
+[CH34: ARD]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 578000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Brocken, Polarisation: V, Programmgruppe: ZDF
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: ZDF
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Wittenberg (Gallunberg), Polarisation: V, Programmgruppe: ZDF
+[CH37: ZDF]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 602000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: ARD regional
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Wittenberg (Gallunberg), Polarisation: V, Programmgruppe: ARD regional
+[CH38: ARD regional]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 610000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Halle (Stadt), Polarisation: V, Programmgruppe: freenet TV1
+[CH43: freenet TV1]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 650000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Brocken, Polarisation: V, Programmgruppe: ARD regional
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: ARD regional
+[CH45: ARD regional]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 666000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: freenet TV1
+[CH46: freenet TV1]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 674000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: ST, Rundfunkanstalt: MDR, Senderstandort: Magdeburg (Stadt), Polarisation: V, Programmgruppe: freenet TV3
+[CH48: freenet TV3]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 690000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO

@@ -1,0 +1,118 @@
+# Filename: de-Mecklenburg-Vorpommern
+# Date: 29.04.2019
+# Menu Pre-defined muxes: "Germany: de-Mecklenburg-Vorpommern"
+# Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
+# Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
+# ---
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Helpterberg, Polarisation: H, Programmgruppe: ARD regional
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Waren, Polarisation: H, Programmgruppe: ARD regional
+[CH22: ARD regional]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 482000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Helpterberg, Polarisation: H, Programmgruppe: ZDF
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Waren, Polarisation: H, Programmgruppe: ZDF
+[CH23: ZDF]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 490000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: freenet TV2
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: freenet TV2
+[CH24: freenet TV2]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 498000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: freenet TV3
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: freenet TV3
+[CH26: freenet TV3]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 514000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: ARD regional
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: ARD regional
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Heringsdorf, Polarisation: V, Programmgruppe: ARD regional
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Stralsund (Garz), Polarisation: H, Programmgruppe: ARD regional
+[CH29: ARD regional]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 538000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: ARD
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: ARD
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Heringsdorf, Polarisation: V, Programmgruppe: ARD
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Stralsund (Garz), Polarisation: H, Programmgruppe: ARD
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Helpterberg, Polarisation: H, Programmgruppe: ARD
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Waren, Polarisation: H, Programmgruppe: ARD
+[CH36: ARD]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 594000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: freenet TV1
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: freenet TV1
+[CH44: freenet TV1]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 658000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Rostock (Toitenwinkel), Polarisation: V, Programmgruppe: ZDF
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Schwerin, Polarisation: H, Programmgruppe: ZDF
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Heringsdorf, Polarisation: V, Programmgruppe: ZDF
+# Bundesland: MV, Rundfunkanstalt: NDR, Senderstandort: Stralsund (Garz), Polarisation: H, Programmgruppe: ZDF
+[CH46: ZDF]
+       DELIVERY_SYSTEM = DVB-T2
+       FREQUENCY = 674000000
+       BANDWIDTH_HZ = 8000000
+       CODE_RATE_HP = AUTO
+       CODE_RATE_LP = AUTO
+       MODULATION = QAM/AUTO
+       TRANSMISSION_MODE = AUTO
+       GUARD_INTERVAL = AUTO
+       HIERARCHY = AUTO
+       INVERSION = AUTO
