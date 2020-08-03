@@ -1,6 +1,8 @@
-# Filename: de-Schleswig-Holstein
-# Date: 29.04.2019
-# Menu Pre-defined muxes: "Germany: de-Schleswig-Holstein"
+# File name: de-Schleswig-Holstein
+# Date: 03.08.2020 
+# DVB-T2 MUX definition as used in Germany for https://tvheadend.org/
+# For use with librelec/kodi copy to /storage/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t
+# Select in tvheadend DVB-T config menu Pre-defined muxes: <file name>
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # ---
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Bungsberg, Polarisation: V, Programmgruppe: ZDF

@@ -1,6 +1,8 @@
-# Filename: de-Rhein-Main-Neckar
-# Date: 29.04.2019
-# Menu Pre-defined muxes: "Germany: de-Rhein-Main-Neckar"
+# File name: de-Rhein-Main-Neckar
+# Date: 03.08.2020 
+# DVB-T2 MUX definition as used in Germany for https://tvheadend.org/
+# For use with librelec/kodi copy to /storage/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t
+# Select in tvheadend DVB-T config menu Pre-defined muxes: <file name>
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
 # ---
