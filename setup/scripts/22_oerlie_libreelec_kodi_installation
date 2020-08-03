@@ -60,7 +60,7 @@ oerlie# Datei: 22_oerlie_libreelec_kodi_installation
 # EZ > Benutzeroberfläche > (Zahnrad, links unten) "Standard" > 2x anklicken bis "Experte" erscheint
 # EZ > Benutzeroberfläche > Regional > Tastaturbelegung > English ... abwählen (ok), German QWERTZ auswählen (ok, ok)
 # EZ > Benutzeroberfläche > Regional > Standardformat für die Region > Deutschland
-# EZ > Benutzeroberfläche > Regional > Zeitzonen Region > Germany
+# EZ > Benutzeroberfläche > Regional > Zeitzonen Region > Germany QWERTZ
 # EZ > Benutzeroberfläche > Skins > Skin konfigurieren > Hauptmenüeinträge > (Kategorie Widgets aktivieren,Filme, Musik, TV, Addons, Bilder, Videos, Favoriten, Wetter)
 # alternativ: EZ > Benutzeroberfläche > Skins > Skin konfigurieren > Hauptmenüeinträge > abwählen: Musikvideos, Radio, Spiele
 # EZ > Benutzeroberfläche > Startup > Aktion beim Starten: TV sehen
