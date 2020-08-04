@@ -4,24 +4,28 @@ standard libreelc/kodi configuration for reception of German public TV stations 
 
 This repository consists of
 - files/templates for libreelec/kodi/tvheadend configuration
+- especially working/current configurations for tvheadend dvb-t2 and iptv
 - "how to" descriptions
 
 
 Proceed as follows:
 
-# Remote Login on Raspberry PI / Libreelec via ssh
+# remote login on Raspberry PI / Libreelec via ssh
 ssh root@oerlie-kh
 
 # create download and oerlie configuration directory if not exist
-mkdir /storage/downloads
-mkdir /storage/downloads/oerlie
+rm -r ~/downloads/oerlie/
+
+rm oerlie.tar.gz
+
+mkdir ~/downloads
+
+mkdir ~/downloads/oerlie
 
 # change into download repository
 cd /storage/downloads
 
-# fetch copressed files from github, unpack and change to scipts directory
-rm oerlie.tar.gz
-
+# fetch compressed files from github, unpack and change to scipts directory
 wget https://github.com/melibokus-h2/oerlie/raw/develop/setup/oerlie.tar.gz
 
 cd /storage/downloads/oerlie
