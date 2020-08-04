@@ -1,5 +1,5 @@
 # Filename: de-Thueringen
-# Date: 02.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Thueringen"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
@@ -7,7 +7,7 @@
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Jena (Kernberge) , Polarisation: V, Programmgruppe: ARD
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Erfurt, Polarisation: V, Programmgruppe: ARD
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: ARD
-CH[21]
+[CH21: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 474000000
        BANDWIDTH_HZ = 8000000
@@ -19,7 +19,7 @@ CH[21]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: ZDF
-CH[22]
+[CH22: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 482000000
        BANDWIDTH_HZ = 8000000
@@ -31,7 +31,7 @@ CH[22]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: ARD
-CH[25]
+[CH25: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 506000000
        BANDWIDTH_HZ = 8000000
@@ -47,7 +47,7 @@ CH[25]
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Inselsberg, Polarisation: V, Programmgruppe: ARD regional
-CH[27]
+[CH27: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 522000000
        BANDWIDTH_HZ = 8000000
@@ -59,7 +59,7 @@ CH[27]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: freenet TV2
-CH[28]
+[CH28: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 530000000
        BANDWIDTH_HZ = 8000000
@@ -73,7 +73,7 @@ CH[28]
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Jena (Kernberge) , Polarisation: V, Programmgruppe: freenet TV2
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Erfurt, Polarisation: V, Programmgruppe: freenet TV2
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: freenet TV2
-CH[33]
+[CH33: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 570000000
        BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@ CH[33]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Inselsberg, Polarisation: V, Programmgruppe: ARD
-CH[39]
+[CH39: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 618000000
        BANDWIDTH_HZ = 8000000
@@ -100,7 +100,7 @@ CH[39]
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Erfurt, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Inselsberg, Polarisation: V, Programmgruppe: ZDF
-CH[41]
+[CH41: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 634000000
        BANDWIDTH_HZ = 8000000
@@ -112,7 +112,7 @@ CH[41]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: freenet TV1
-CH[43]
+[CH43: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 650000000
        BANDWIDTH_HZ = 8000000
@@ -126,7 +126,7 @@ CH[43]
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Jena (Kernberge) , Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Erfurt, Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: freenet TV1
-CH[44]
+[CH44: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 658000000
        BANDWIDTH_HZ = 8000000
@@ -141,7 +141,7 @@ CH[44]
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Erfurt, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Weimar, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: TH, Rundfunkanstalt: MDR, Senderstandort: Gera (Roschütz), Polarisation: V, Programmgruppe: freenet TV3
-CH[47]
+[CH47: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 682000000
        BANDWIDTH_HZ = 8000000

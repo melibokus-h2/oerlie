@@ -1,5 +1,5 @@
 # Datei: oerlie_installation_02.sh
-# Stand: 12.01.2019
+# Stand: 28.04.2019
 # Inhalt: LibreELEC-Systems und Kodi einrichten
 #-----------------------------------------------------------------------
 # Den Einplatinenrechner 
@@ -19,7 +19,7 @@
 # Darin werden folgende Einstellungen vorgenommen:
 # Fenster: "Welcome to LibreELEC"
 # > Next
-# "Hostname": LibreELEC in oerlie ändern > Next
+# "Hostname": LibreELEC in oerlie-xx ändern > Next
 # "Networking": ggf. WLAN einrichten > Next
 # "Configure Services": SSH und Samba  aktivieren. > Next
 # "Thank you" > Next
@@ -64,7 +64,7 @@
 # EZ > Benutzeroberfläche > Startup > Startfenster: TV-Kanäle
 # EZ > System > Anzeige > Video kalibrieren > (mit Cursortasten und ok)
 # EZ > System > Eingabe > Tastaturbelegungen > German
-# EZ > Dienste > Allgemein > Gerätename > oerlie
+# EZ > Dienste > Allgemein > Gerätename > oerlie-xx-kodi
 # EZ > PVR & TV > Allgemein > Kanalreihenfolge des Backend(s) verwenden  
 #-----------------------------------------------------------------------
 # Erforderliche Addons
@@ -81,18 +81,22 @@
 #	ARD Mediathek
 #	ARTE +7
 #	BR Mediathek
+#	Das Erste Mediathek
 #	HR Mediathek
 #	Kika mediathek
 #	MDR Mediathek
 #	Mediathek
+#	Mediathekview
 #	NDR Mediathek
+#	ORF TVthek
 #	Phoenix Mediathek
 #	SR Mediathek
+#	SRF Play TV
 #	SWR Mediathek
 #	Tagesschau
 #	WDR Mediathek
 #	Youtube
-#	ZDF mediathek 2016
+#	ZDF Mediathek 2016
 #-----------------------------------------------------------------------
 # Weitere interessante Addons
 #-----------------------------------------------------------------------

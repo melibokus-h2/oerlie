@@ -1,5 +1,5 @@
 # Filename: de-Nordrhein-Westfalen
-# Date: 02.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Nordrhein-Westfalen"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
@@ -7,7 +7,7 @@
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Hochsauerland, Polarisation: H, Programmgruppe: ARD
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Nordhelle, Polarisation: V, Programmgruppe: ARD
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Siegen (Stadt), Polarisation: V, Programmgruppe: ARD
-CH[21]
+[CH21: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 474000000
        BANDWIDTH_HZ = 8000000
@@ -20,7 +20,7 @@ CH[21]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bielefeld, Polarisation: H, Programmgruppe: freenet TV1
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: freenet TV1
-CH[24]
+[CH24: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 498000000
        BANDWIDTH_HZ = 8000000
@@ -36,7 +36,7 @@ CH[24]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Gelsenkirchen (Scholven), Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Hagen, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: ARD regional
-CH[25]
+[CH25: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 506000000
        BANDWIDTH_HZ = 8000000
@@ -56,7 +56,7 @@ CH[25]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Gummersbach, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Hohe-Warte, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Köln (Colonius), Polarisation: V, Programmgruppe: ARD regional
-CH[26]
+[CH26: ARD, ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 514000000
        BANDWIDTH_HZ = 8000000
@@ -69,7 +69,7 @@ CH[26]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bielefeld, Polarisation: H, Programmgruppe: freenet TV2
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: freenet TV2
-CH[27]
+[CH27: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 522000000
        BANDWIDTH_HZ = 8000000
@@ -93,7 +93,7 @@ CH[27]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: ZDF
-CH[29]
+[CH29: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 538000000
        BANDWIDTH_HZ = 8000000
@@ -107,7 +107,7 @@ CH[29]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Hochsauerland, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Nordhelle, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Siegen (Stadt), Polarisation: V, Programmgruppe: ZDF
-CH[30]
+[CH30: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 546000000
        BANDWIDTH_HZ = 8000000
@@ -121,7 +121,7 @@ CH[30]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bielefeld, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Minden, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Teutoburger Wald, Polarisation: V, Programmgruppe: ARD regional
-CH[31]
+[CH31: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 554000000
        BANDWIDTH_HZ = 8000000
@@ -134,7 +134,7 @@ CH[31]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Baumberge), Polarisation: V, Programmgruppe: ARD
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: ARD
-CH[32]
+[CH32: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 562000000
        BANDWIDTH_HZ = 8000000
@@ -148,7 +148,7 @@ CH[32]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bielefeld, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Minden, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Teutoburger Wald, Polarisation: V, Programmgruppe: ZDF
-CH[33]
+[CH33: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 570000000
        BANDWIDTH_HZ = 8000000
@@ -161,7 +161,7 @@ CH[33]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Baumberge), Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: ARD regional
-CH[34]
+[CH34: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 578000000
        BANDWIDTH_HZ = 8000000
@@ -186,7 +186,7 @@ CH[34]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: ARD
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: ARD
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: ARD
-CH[35]
+[CH35: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 586000000
        BANDWIDTH_HZ = 8000000
@@ -200,7 +200,7 @@ CH[35]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Aachen (Stadt), Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bonn (Venusberg), Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Köln (Colonius), Polarisation: V, Programmgruppe: freenet TV3
-CH[36]
+[CH36: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 594000000
        BANDWIDTH_HZ = 8000000
@@ -213,7 +213,7 @@ CH[36]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Bielefeld, Polarisation: H, Programmgruppe: freenet TV3
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: freenet TV3
-CH[39]
+[CH39: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 618000000
        BANDWIDTH_HZ = 8000000
@@ -234,7 +234,7 @@ CH[39]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: freenet TV1
-CH[40]
+[CH40: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 626000000
        BANDWIDTH_HZ = 8000000
@@ -255,7 +255,7 @@ CH[40]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: freenet TV2
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: freenet TV2
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: freenet TV2
-CH[43]
+[CH43: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 650000000
        BANDWIDTH_HZ = 8000000
@@ -269,7 +269,7 @@ CH[43]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Hochsauerland, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Nordhelle, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Siegen (Stadt), Polarisation: V, Programmgruppe: ARD regional
-CH[44]
+[CH44: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 658000000
        BANDWIDTH_HZ = 8000000
@@ -282,7 +282,7 @@ CH[44]
        INVERSION = AUTO
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Baumberge), Polarisation: V, Programmgruppe: ZDF
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Münster (Stadt), Polarisation: V, Programmgruppe: ZDF
-CH[45]
+[CH45: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 666000000
        BANDWIDTH_HZ = 8000000
@@ -298,7 +298,7 @@ CH[45]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: ARD regional
-CH[46]
+[CH46: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 674000000
        BANDWIDTH_HZ = 8000000
@@ -316,7 +316,7 @@ CH[46]
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Langenberg, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wesel, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: NW, Rundfunkanstalt: WDR, Senderstandort: Wuppertal, Polarisation: H, Programmgruppe: freenet TV3
-CH[48]
+[CH48: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 690000000
        BANDWIDTH_HZ = 8000000

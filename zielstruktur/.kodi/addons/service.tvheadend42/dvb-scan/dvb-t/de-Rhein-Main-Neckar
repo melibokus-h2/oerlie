@@ -1,5 +1,5 @@
 # Filename: de-Rhein-Main-Neckar
-# Date: 04.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Rhein-Main-Neckar"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
@@ -28,7 +28,7 @@
         GUARD_INTERVAL = AUTO
         HIERARCHY = AUTO
         INVERSION = AUTO
-[CH22: ZDF, ]
+[CH22: ZDF]
         DELIVERY_SYSTEM = DVB-T2
         FREQUENCY = 482000000
         BANDWIDTH_HZ = 8000000

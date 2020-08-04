@@ -47,31 +47,40 @@ BR Fernsehen Nord HD
 NDR Niedersachsen HD
 WDR HD
 rbb Berlin HD
-MDR Sachsen HD
+MDR Thüringen HD
 ARTE HD
 3sat
 one HD
 ZDFneo
 ARD-alpha
 KiKA
+phoenix
+tagesschau24
+ZDFinfo
+WELT
+Bibel TV
+SR Fernsehen HD
+SWR Baden-Württemberg HD 
+NDR Schleswig-Holstein HD
+NDR Hamburg HD
+NDR Mecklenburg-Vorpommern HD
+BR Fernsehen Süd HD
+rbb Brandenburg HD
+MDR Sachsen HD
+MDR Sachsen-Anhalt HD
 Welt der Wunder
 ANIXE HD
 blizz TV
 Family TV
 Nickelodeon
-Bibel TV
 ORF eins HD
 ORF 2 HD
 ORF III HD
-phoenix
-tagesschau24
-ZDFinfo
 Deutsche Welle
 Deutsche Welle (EN)
 Parlamentsfernsehen 1
 Parlamentsfernsehen 2
 n-tv
-WELT
 Sky Sport News HD
 oe24 TV                     
 ORF SPORT +
@@ -130,15 +139,6 @@ TV Touring
 TVA
 TVO
 RE eins TV
-SWR Baden-Württemberg HD 
-NDR Schleswig-Holstein HD
-NDR Mecklenburg-Vorpommern HD
-NDR Hamburg HD
-BR Fernsehen Süd HD
-MDR Sachsen-Anhalt HD
-MDR Thüringen HD
-rbb Brandenburg HD
-SR Fernsehen HD
 ARD Event 1
 ARD Event 2
 ZDF Event 1                 
@@ -301,11 +301,18 @@ cat > ~/.kodi/userdata/keymaps/remote.xml
 </keymap>
 
 # mit Strg d, bzw ctrl d abschließen
-
+#Ergebnis prüfen
 cat ~/.kodi/userdata/keymaps/remote.xml
 
+# Die richtigen/aktuellen DVB-T2 Scantabellen für den TVHeadend Server laden/bereitstellen.
+# Ist nötig solange mit TVheadend die veralteten Tabellen ausgeliefert werden
 cd ~/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t
-rm de-*
+ls -la de*
+rm de*
+cp ~/downloads/de* .
+ls -la de*
+systemctl restart tvheadend
+
 wget https://github.com/melibokus-h2/oerlie/blob/master/download/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t/de-Baden-Wuertemberg
 wget https://github.com/melibokus-h2/oerlie/blob/master/download/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t/de-Bayern
 wget https://github.com/melibokus-h2/oerlie/blob/master/download/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t/de-Berlin
@@ -334,6 +341,9 @@ cat > de-Rhein-Main-Neckar-dvb-t2
 
 
 cd ~
+mkdir ~/picons
+mkdir ~/picons/tvh
+mkdir ~/picons/vdr
 ls -la ~/picons/tvh
 ls -la ~/picons/vdr
 cd ~/picons/tvh
@@ -356,7 +366,7 @@ wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mdr_Fernsehen_HD_Logo_2017.png/320px-Mdr_Fernsehen_HD_Logo_2017.png -O 1_0_1_663_4602_2114_EEEE0000_0_0_0.png
 wget https://upload.wikimedia.org/wikipedia/commons/b/bd/Arte_Logo_HD_2011.png -O 1_0_1_302_9802_2114_EEEE0000_0_0_0.png
 wget https://upload.wikimedia.org/wikipedia/commons/b/bd/Arte_Logo_HD_2011.png -O 1_0_1_302_3802_2114_EEEE0000_0_0_0.png
-wget https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/3sat_HD.svg/320px-3sat_HD.svg.png -O 1_0_1_7D4_203_2114_EEEE0000_0_0_0.png
+wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/1920px-3sat_2019.svg.png -O 1_0_1_7D4_203_2114_EEEE0000_0_0_0.png
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/320px-One_HD_Logo.svg.png -O 1_0_1_305_9802_2114_EEEE0000_0_0_0.png
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/320px-One_HD_Logo.svg.png -O 1_0_1_305_3802_2114_EEEE0000_0_0_0.png
 wget https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zdf_neo_hd.svg/320px-Zdf_neo_hd.svg.png -O 1_0_1_7D3_203_2114_EEEE0000_0_0_0.png
@@ -406,3 +416,4 @@ grep -l 1_0_1_301_9802_2114_EEEE0000_0_0_0.png *sed 's/number\"\: 0/number\"\: 1
 #------------------------------------------------
 # Weitere Konfigurationen zunächst nicht benötigt
 #------------------------------------------------
+

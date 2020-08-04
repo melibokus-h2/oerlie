@@ -1,5 +1,5 @@
 # Filename: de-Schleswig-Holstein
-# Date: 02.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Schleswig-Holstein"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # ---
@@ -7,7 +7,7 @@
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Flensburg, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Schleswig, Polarisation: V, Programmgruppe: ZDF
-CH[21]
+[CH21: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 474000000
        BANDWIDTH_HZ = 8000000
@@ -21,7 +21,7 @@ CH[21]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Wedel Wittsmoor, Polarisation: H, Programmgruppe: ARD
-CH[23]
+[CH23: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 490000000
        BANDWIDTH_HZ = 8000000
@@ -36,7 +36,7 @@ CH[23]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Brunsbüttel, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Heide, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Westerland (Sylt), Polarisation: H, Programmgruppe: ARD regional
-CH[24]
+[CH24: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 498000000
        BANDWIDTH_HZ = 8000000
@@ -51,7 +51,7 @@ CH[24]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Brunsbüttel, Polarisation: V, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Heide, Polarisation: H, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Westerland (Sylt), Polarisation: H, Programmgruppe: ARD
-CH[26]
+[CH26: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 514000000
        BANDWIDTH_HZ = 8000000
@@ -65,7 +65,7 @@ CH[26]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: freenet TV2
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: freenet TV2
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: freenet TV2
-CH[28]
+[CH28: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 530000000
        BANDWIDTH_HZ = 8000000
@@ -78,7 +78,7 @@ CH[28]
        INVERSION = AUTO
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: freenet TV1
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: freenet TV1
-CH[30]
+[CH30: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 546000000
        BANDWIDTH_HZ = 8000000
@@ -92,7 +92,7 @@ CH[30]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Bredstedt, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Heide, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Westerland (Sylt), Polarisation: H, Programmgruppe: ZDF
-CH[31]
+[CH31: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 554000000
        BANDWIDTH_HZ = 8000000
@@ -105,7 +105,7 @@ CH[31]
        INVERSION = AUTO
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: ZDF
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: ZDF
-CH[33]
+[CH33: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 570000000
        BANDWIDTH_HZ = 8000000
@@ -121,7 +121,7 @@ CH[33]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Schleswig, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Helgoland, Polarisation: H, Programmgruppe: ARD regional
-CH[39]
+[CH39: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 618000000
        BANDWIDTH_HZ = 8000000
@@ -135,7 +135,7 @@ CH[39]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Wedel Wittsmoor, Polarisation: H, Programmgruppe: ARD regional
-CH[40]
+[CH40: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 626000000
        BANDWIDTH_HZ = 8000000
@@ -147,7 +147,7 @@ CH[40]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Helgoland, Polarisation: H, Programmgruppe: ZDF
-CH[44]
+[CH44: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 658000000
        BANDWIDTH_HZ = 8000000
@@ -161,7 +161,7 @@ CH[44]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: freenet TV3
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Lübeck (Berkenthin), Polarisation: H, Programmgruppe: freenet TV3
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Stockelsdorf (Lübeck), Polarisation: V, Programmgruppe: freenet TV3
-CH[45]
+[CH45: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 666000000
        BANDWIDTH_HZ = 8000000
@@ -177,7 +177,7 @@ CH[45]
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Schleswig, Polarisation: V, Programmgruppe: ARD
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Helgoland, Polarisation: H, Programmgruppe: ARD
-CH[47]
+[CH47: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 682000000
        BANDWIDTH_HZ = 8000000
@@ -189,7 +189,7 @@ CH[47]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: SH, Rundfunkanstalt: NDR, Senderstandort: Kiel, Polarisation: H, Programmgruppe: freenet TV1
-CH[52]
+[CH52: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 722000000
        BANDWIDTH_HZ = 8000000

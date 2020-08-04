@@ -45,7 +45,7 @@ ps -ef|grep tvheadend
 dvbtscantabspath="/storage/.kodi/addons/service.tvheadend42/dvb-scan/dvb-t"
 ls -la $dvbtscantabspath/de*
 rm $dvbtscantabspath/de*
-cp /storage/oerlie/dvbt/de* $dvbtscantabspath
+cp /storage/downloads/oerlie/dvbt/de* $dvbtscantabspath
 ls -la $dvbtscantabspath/de*
 
 ps -ef|grep tvheadend
@@ -102,7 +102,7 @@ echo "   Fenster 'Welcome - Tvheadend - your ...' : Network access, Administrato
 echo "   Fenster 'Network Settings' : 'Network 1' : Tuner > IPTV ; Network type > IPTV Automatic Network"
 echo "   Fenster 'Network Settings' : 'Network 2' : Tuner > [Sony CXD2880 ...|...|...] ; Network type > DVB-T Network"
 echo "   Fenster 'Assign predefined muxes to networks' : 'Network 1': Network: DVB-T Network;  Pre-defined muxes : Germany: de-generic-all-channels"
-echo "   Fenster 'Assign predefined muxes to networks' : 'Network 2': Network: IPTV Automatic Network;  URL : file:///storage/oerlie/iptv/kn-pipe-tv-adapted-sorted"
+echo "   Fenster 'Assign predefined muxes to networks' : 'Network 2': Network: IPTV Automatic Network;  URL : file:///storage/downloads/oerlie/iptv/kn-pipe-tv-adapted-sorted"
 echo "   --> Als Ergebnis erscheint z.B. 'Found muxes 259'; 'Found services 155'"
 echo "   Fenster 'Service mapping' : Map all services; Create provider tags; Create network tags"
 echo "   Configuration > DVB Inputs > Networks > IPTV Automatc Network > Edit > Channel numbers from 101 > Save"

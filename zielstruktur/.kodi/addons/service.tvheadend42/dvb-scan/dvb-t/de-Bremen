@@ -1,11 +1,11 @@
 # Filename: de-Bremen
-# Date: 02.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Bremen"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
 # ---
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: freenet TV3
-CH[22]
+[CH22: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 482000000
        BANDWIDTH_HZ = 8000000
@@ -17,7 +17,7 @@ CH[22]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: ARD
-CH[29]
+[CH29: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 538000000
        BANDWIDTH_HZ = 8000000
@@ -29,7 +29,7 @@ CH[29]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: ZDF
-CH[35]
+[CH35: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 586000000
        BANDWIDTH_HZ = 8000000
@@ -41,7 +41,7 @@ CH[35]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: freenet TV1
-CH[42]
+[CH42: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 642000000
        BANDWIDTH_HZ = 8000000
@@ -53,7 +53,7 @@ CH[42]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: freenet TV2
-CH[48]
+[CH48: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 690000000
        BANDWIDTH_HZ = 8000000
@@ -65,7 +65,7 @@ CH[48]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HB, Rundfunkanstalt: RB, Senderstandort: Bremen, Polarisation: H, Programmgruppe: ARD regional
-CH[55]
+[CH55: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 746000000
        BANDWIDTH_HZ = 8000000

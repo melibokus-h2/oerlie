@@ -1,5 +1,5 @@
 # Filename: de-Hessen
-# Date: 02.01.2019
+# Date: 29.04.2019
 # Menu Pre-defined muxes: "Germany: de-Hessen"
 # Created from http://www.dvbt2hd.de/files/2/11/DVB-T2_Sendestandorte_und_Kanaele_(Stand_Oktober_18).pdf
 # Empfangsgebiete, Senderstandorte: http://www.dvbt2hd.de/files/DVB-T2_HD_Empfangsgebiete_ab_5._dezember_2018.jpg
@@ -9,7 +9,7 @@
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Großer Feldberg, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: ZDF
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Rimberg, Polarisation: H, Programmgruppe: ZDF
-CH[22]
+[CH22: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 482000000
        BANDWIDTH_HZ = 8000000
@@ -26,7 +26,7 @@ CH[22]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: freenet TV2
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: freenet TV2
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: freenet TV2
-CH[25]
+[CH25: freenet TV2]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 506000000
        BANDWIDTH_HZ = 8000000
@@ -39,7 +39,7 @@ CH[25]
        INVERSION = AUTO
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: freenet TV1
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: freenet TV1
-CH[28]
+[CH28: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 530000000
        BANDWIDTH_HZ = 8000000
@@ -54,7 +54,7 @@ CH[28]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hoher Meissner, Polarisation: H, Programmgruppe: ARD regional
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: ARD regional
-CH[29]
+[CH29: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 538000000
        BANDWIDTH_HZ = 8000000
@@ -69,7 +69,7 @@ CH[29]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Frankfurt, Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Großer Feldberg, Polarisation: V, Programmgruppe: freenet TV1
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: freenet TV1
-CH[31]
+[CH31: freenet TV1]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 554000000
        BANDWIDTH_HZ = 8000000
@@ -85,7 +85,7 @@ CH[31]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Großer Feldberg, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: ARD regional
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Würzberg, Polarisation: H, Programmgruppe: ARD regional
-CH[34]
+[CH34: ARD regional]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 578000000
        BANDWIDTH_HZ = 8000000
@@ -99,7 +99,7 @@ CH[34]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hoher Meissner, Polarisation: H, Programmgruppe: ZDF
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: ZDF
-CH[35]
+[CH35: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 586000000
        BANDWIDTH_HZ = 8000000
@@ -111,7 +111,7 @@ CH[35]
        HIERARCHY = AUTO
        INVERSION = AUTO
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Würzberg, Polarisation: H, Programmgruppe: ZDF
-CH[41]
+[CH41: ZDF]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 634000000
        BANDWIDTH_HZ = 8000000
@@ -127,7 +127,7 @@ CH[41]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Großer Feldberg, Polarisation: V, Programmgruppe: ARD
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: ARD
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Rimberg, Polarisation: H, Programmgruppe: ARD
-CH[42]
+[CH42: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 642000000
        BANDWIDTH_HZ = 8000000
@@ -141,7 +141,7 @@ CH[42]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: ARD
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hoher Meissner, Polarisation: H, Programmgruppe: ARD
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: ARD
-CH[46]
+[CH46: ARD]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 674000000
        BANDWIDTH_HZ = 8000000
@@ -156,7 +156,7 @@ CH[46]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Frankfurt, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Großer Feldberg, Polarisation: V, Programmgruppe: freenet TV3
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Hohe-Wurzel, Polarisation: V, Programmgruppe: freenet TV3
-CH[47]
+[CH47: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 682000000
        BANDWIDTH_HZ = 8000000
@@ -170,7 +170,7 @@ CH[47]
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Würzberg, Polarisation: H, Programmgruppe: ARD
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Habichtswald, Polarisation: H, Programmgruppe: freenet TV3
 # Bundesland: HE, Rundfunkanstalt: HR, Senderstandort: Kassel (Söhrewald), Polarisation: V, Programmgruppe: freenet TV3
-CH[48]
+[CH48: freenet TV3]
        DELIVERY_SYSTEM = DVB-T2
        FREQUENCY = 690000000
        BANDWIDTH_HZ = 8000000
