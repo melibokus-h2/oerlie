@@ -21,9 +21,13 @@ cd /storage/downloads
 
 # fetch copressed files from github, unpack and change to scipts directory
 rm oerlie.tar.gz
+
 wget https://github.com/melibokus-h2/oerlie/raw/develop/setup/oerlie.tar.gz
+
 cd /storage/downloads/oerlie
+
 tar xfv /storage/downloads/oerlie.tar.gz
+
 cd scripts
 
 # read or/and execute scipts
