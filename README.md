@@ -24,16 +24,16 @@ mkdir ~/downloads/oerlie
 
 cd ~/downloads
 
-# fetch compressed files from github, unpack and change to scipts directory
+# fetch compressed files from github, unpack and change to scripts directory
 wget https://github.com/melibokus-h2/oerlie/raw/develop/setup/oerlie.tar.gz
 
 cd ~/downloads/oerlie
 
 tar xfv /storage/downloads/oerlie.tar.gz
 
-cd ~/downloads/oerlie/scipts
+cd ~/downloads/oerlie/scripts
 
-# read or/and execute scipts, howtos
+# read or/and execute scripts, howtos
 (sh ./21_oerlie_sd_installaton)
 
 more 22_oerlie_libreelec_kodi_installation
