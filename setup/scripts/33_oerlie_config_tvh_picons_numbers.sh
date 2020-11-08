@@ -6,7 +6,7 @@ piconpathvdr="/storage/picons/vdr/"
 thumbnailpath="/storage/.kodi/userdata/Thumbnails/"
 inputfile="31_oerlie_program_numbering.csv"
 OLDIFS="$IFS"
-IFS="\;"
+IFS=","
 
 mkdir $piconpathtvh
 mkdir $piconpathvdr
