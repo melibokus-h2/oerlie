@@ -38,8 +38,6 @@ cd ~/downloads/oerlie/scripts
 
 more 22_oerlie_libreelec_kodi_installation
 
-sh ./31_oerlie_prog_sorted
-
 sh ./32_oerlie_config_tvh_clear_init
 
 
