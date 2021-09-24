@@ -1,4 +1,5 @@
 oerlie - oeffentlich rechtlicher linux empfänger
+# 2021-09-24
 
 standard libreelc/kodi configuration for reception of German public TV stations via DVB-T2 and IPTV 
 
@@ -16,7 +17,7 @@ ssh root@oerlie-kh
 # create download and oerlie configuration directory if not exists and change into download repository
 rm -r ~/downloads/oerlie/
 
-rm oerlie.tar.gz
+rm ~/downloads/oerlie.tar.gz
 
 mkdir ~/downloads
 
