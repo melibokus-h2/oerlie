@@ -17,13 +17,21 @@ ssh root@oerlie-kh
 # create download and oerlie configuration directory if not exists and change into download repository
 # fetch compressed files from github, unpack and change to scripts directory
 rm -r ~/downloads/oerlie/
+
 rm ~/downloads/oerlie.tar.gz
+
 mkdir ~/downloads
+
 mkdir ~/downloads/oerlie
+
 cd ~/downloads
+
 wget https://github.com/melibokus-h2/oerlie/raw/develop/setup/oerlie.tar.gz
+
 cd ~/downloads/oerlie
+
 tar xfv /storage/downloads/oerlie.tar.gz
+
 cd ~/downloads/oerlie/scripts
 
 # read or/and execute scripts, howtos
