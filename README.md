@@ -41,4 +41,8 @@ more 22_oerlie_libreelec_kodi_installation
 
 sh ./32_oerlie_config_tvh_clear_init.sh
 
+#perpared minimum working iptv stream list
+
+file:///storage/downloads/oerlie/iptv/kn-pipe-tv-adapted-sorted-kh
+
 
